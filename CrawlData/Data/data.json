@@ -1,0 +1,2192 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Bếp cơm Phước Thiện",
+    "Phone": "0909 209 004",
+    "Website": null,
+    "Description": "22/06/2021Bất chấp nhiều lần khánh kiệt chỉ vì dốc hết tài sản làm từ thiện, ông vẫn cố giữ lửa bếp cơm Phước Thiện, nơi san sẻ hơn 500 phần cơm miễn phí cho bệnh nhân, người nghèo.Xem clip: Bếp cơm ngày nấu 100kg gạo tặng bệnh nhân, người nghèo ...",
+    "Address": "44/4 Phạm Hùng, xã Bình Hưng, huyện Bình Chánh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Bình Chánh"
+  },
+  {
+    "Id": 2,
+    "Name": "Quán cơm chay 1.000 đồng",
+    "Phone": null,
+    "Website": null,
+    "Description": "03-12-2014(NLĐO)- Quán cơm chay bán mỗi suất với 1.000 đồng và giá 1.000 đồng cũng là tên của quán cơm nằm trên Quốc lộ 1, huyện Bình Chánh, TP HCM.Bảng hiệu quán ăn mang tên 1.000 đồng làm ấm lòng người lao động nghèoNhững câu n ...",
+    "Address": "nằm trên Quốc lộ 1, huyện Bình Chánh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Bình Chánh"
+  },
+  {
+    "Id": 3,
+    "Name": "Bếp ăn từ thiện Bệnh viện Đa khoa khu vực Củ Chi",
+    "Phone": null,
+    "Website": null,
+    "Description": "2013: Bệnh viện đa khoa khu vực Củ Chi với quy mô 1000 giường bệnh, đội ngũ CB – CNV lên đến 1300 người, trong có có đến 285 bác sĩ. Đó là những con số biết nói so với nhiều bệnh viên đa khoa khu vực trong cả nước. Vì nằm ở vị trí giáp ranh giữa TPHCM với ...",
+    "Address": "Ấp Bàu Tre 2, xã Tân An Hội, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 4,
+    "Name": "Chi Hội Từ thiện Nhơn Hòa - Bệnh viện Đa khoa Củ Chi",
+    "Phone": null,
+    "Website": "www.nhonhoa.org",
+    "Description": "Mục tiêu của hoạt động từ thiện của Chi hội Nhơn Hòa_&nbsp; Để nhận được sự hỗ trợ của tất cả các nhà hảo tâm và mạnh thường quân._ Từ các cá nhân, các nhóm, và các tổ chức trong và ngoài nước._ Tổ chức phục vụ các bữa ăn từ thiện cho bệnh nhân nghèo tại ...",
+    "Address": "Ấp Bàu Tre 2, xã Tân An Hội, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 5,
+    "Name": "Cơ sở Bảo Trợ xã Hội Thiện Duyên",
+    "Phone": null,
+    "Website": null,
+    "Description": "67 Nguyễn Thị Nê, ấp Phú Hòa, xã Phú Hòa Đông, huyện Củ Chi, TP HCM, Việt Nam",
+    "Address": "67 Nguyễn Thị Nê, ấp Phú Hòa, xã Phú Hòa Đông, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 6,
+    "Name": "Làng Trẻ Mồ Côi - Orphant Village",
+    "Phone": null,
+    "Website": null,
+    "Description": "Ấp 3, xã Phạm Văn Cội, huyện Củ Chi, TP HCM, Việt Nam",
+    "Address": "Ấp 3, xã Phạm Văn Cội, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 7,
+    "Name": "Trung Tâm Aids Mai Hòa",
+    "Phone": null,
+    "Website": "www.cisnet.edu.vn/forum/showthread.php?t=1957",
+    "Description": "Mái Ấm cuối đời cho những người nhiễm AIDS.Nằm cách quốc lộ 22B không xa, gần 50km so với t/p Hồ Chí Minh, tại huyện Củ Chi, trung tâm nuôi dưỡng người nhiễm Aids giai đọan cuối Mai Hòa thật sự là mái ấm cuối đời cho những bệnh nhân tại đây.Trên mảnh đất ...",
+    "Address": "huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 8,
+    "Name": "Trung Tâm Nuôi Dưỡng Trẻ Em Khuyết Tật Thiên Phước",
+    "Phone": null,
+    "Website": null,
+    "Description": "Ấp Lộ 6, xã An Nhơn, huyện Củ Chi, TP HCM, Việt Nam",
+    "Address": "Ấp Lộ 6, xã An Nhơn, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 9,
+    "Name": "Trường nuôi dạy trẻ em khuyết tật Củ Chi - disable chil...",
+    "Phone": null,
+    "Website": null,
+    "Description": "Khu phố 3, huyện Củ Chi, TP HCM, Việt Nam",
+    "Address": "Khu phố 3, huyện Củ Chi, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Củ Chi"
+  },
+  {
+    "Id": 10,
+    "Name": "Chùa Lá (chùa Huyền Trang) - Ngôi nhà chung của Trẻ mồ ...",
+    "Phone": null,
+    "Website": "trungtamhuyentrang.com",
+    "Description": "Đại đức Thích Truyền Tứ, trụ trì chùa Lá được các chú nhỏ xem như cha, bởi người cha ấy đã cho các chú lòng tin, nghị lực và tình thương.&nbsp; Nhìn các em mồ côi bây giờ, thầy thấy chính mình năm xưa.&nbsp; TỪ một trẻ mồ côi nên thầy thương chúng bơ vơ, đói khát, ...",
+    "Address": "456/39 Huỳnh Tấn Phát, KP7, huyện Nhà Bè, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Nhà Bè"
+  },
+  {
+    "Id": 11,
+    "Name": "Hội Từ thiện Tường Nguyên - Ngôi chùa nấu 20.000 suất ă...",
+    "Phone": null,
+    "Website": null,
+    "Description": "18/8/2021TP HCM -&nbsp;Mỗi ngày bếp ăn chùa Tường Nguyên (huyện Nhà Bè) sử dụng 2 tấn gạo, 1,5 tấn rau để nấu hàng chục nghìn phần cơm cho khu cách ly, bệnh viện dã chiến.Gần ba tháng nay, khi TP HCM giãn cách xã hội, bếp ăn từ thiện của chùa T ...",
+    "Address": "đường Nguyễn Hữu Thọ, huyện Nhà Bè, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Nhà Bè"
+  },
+  {
+    "Id": 12,
+    "Name": "Trung Tâm Bảo Trợ Trẻ Mồ Côi Pháp Võ",
+    "Phone": null,
+    "Website": "www.chuaphapvo.com",
+    "Description": "Trong suốt thời gian 16 năm, các em được đùm bọc thương yêu, được chăm sóc nuôi dưỡng, được ăn học phần lớn là nhờ sự cưu mang hỗ trợ của Quý Ân nhân khắp mọi miền. Quý vị là hiện thân của tình thương, là Ông Bà, là Cha Mẹ tinh thần cao cả của các em, đã ...",
+    "Address": "28/1 ấp 3, xã Phú Xuân, huyện Nhà Bè, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Nhà Bè"
+  },
+  {
+    "Id": 13,
+    "Name": "Bếp ăn từ thiện Bảo Hòa (quận 10)",
+    "Phone": "0906 095 142",
+    "Website": null,
+    "Description": "15/10/2008:&nbsp;Hàng trăm bệnh nhân xếp thành hai hàng trong con ngõ nhỏ của đường Nơ Trang Long, Phú Nhuận, TPHCM. Trên tay họ cầm những chiếc cặp lồng đợi đến lượt mình nhận quà từ Chi hội từ thiện Bảo Hòa chi nhánh Ung Bướu.Tận mắt chứng kiến những giọt ...",
+    "Address": "261 Lý Thái Tổ, phường 9, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 14,
+    "Name": "Hành Trình Yêu Thương (HTYT)",
+    "Phone": "0907 499 977",
+    "Website": "hanhtrinhyeuthuong.vn",
+    "Description": "Nhóm thiện nguyện - Công tác xã hội - Quỹ tài trợ học bỗng.Từ buổi ban đầu Hành Trình Yêu Thương chỉ là một nhóm bạn cùng chung sở thích vui chơi, khám phá du lịch. Trong mỗi chuyến đi&nbsp;, những trái tim bắt nhịp đồng điệu ới nhau và cảm nhận được nhiều h ...",
+    "Address": "283/55 Cách Mạng Tháng 8, phường12, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 15,
+    "Name": "Hiệp Hội Asia - Eurasia",
+    "Phone": null,
+    "Website": "en.eurasia.org.vn",
+    "Description": "Mục đích của sư phạm trị liệu là giúp đỡ những trẻ em và thiếu niên bị khiếm khuyết về trí tuệ, tâm lý và thể chấtMục tiêu của Hiệp hộiTạo điều kiện hòa nhập vào xã hội và phát triển cho những người khiếm khuyết trí tuệ và thể chất cũng như cho nhữn ...",
+    "Address": "436B/65 đường 3 Tháng 2, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 16,
+    "Name": "Hội Người Mù quận 10",
+    "Phone": null,
+    "Website": null,
+    "Description": "72 Tô Hiến Thành, phường 15, quận 10, TP HCM, Việt Nam",
+    "Address": "72 Tô Hiến Thành, phường 15, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 17,
+    "Name": "Mái Ấm Bừng Sáng",
+    "Phone": null,
+    "Website": null,
+    "Description": "266/5 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Address": "266/5 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 18,
+    "Name": "Mái Ấm Bừng Sáng",
+    "Phone": null,
+    "Website": null,
+    "Description": "266/5 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Address": "266/5 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 19,
+    "Name": "Quán cơm 2.000 đồng ở TP HCM của Người Tôi Cưu Mang",
+    "Phone": null,
+    "Website": "www.nguoitoicuumang.com",
+    "Description": "16/11/2012Thực khách rất đa dạng, từ học sinh - sinh viên có hoàn cảnh khó khăn, đến những người lao động có thu nhập thấp như bán vé số, mua ve chai, bán hàng rong, người già có gia cảnh neo đơn không nơi nương tựa, người vô gia cư...Giữa thời buổi k ...",
+    "Address": "14/1 Ngô Quyền, phường 5, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 20,
+    "Name": "Tân Hưng Long Tự (quận 10)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "282 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 21,
+    "Name": "Tổ ấm ánh sáng nữ - Female Light home",
+    "Phone": null,
+    "Website": null,
+    "Description": "H 1A Bạch Mã, Cư xá Bắc Hải, phường 15, quận 10, TP HCM, Việt Nam",
+    "Address": "H 1A Bạch Mã, Cư xá Bắc Hải, phường 15, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 22,
+    "Name": "Trung Tâm Nghiên Cứu &amp; Phát Triển Năng Lực Người Khuyết...",
+    "Phone": null,
+    "Website": null,
+    "Description": "91/8E Hòa Hưng, phường 12, quận 10, TP HCM, Việt Nam",
+    "Address": "91/8E Hòa Hưng, phường 12, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 23,
+    "Name": "Trường Khiếm Thị - Nguyễn Đình Chiểu",
+    "Phone": null,
+    "Website": "www.ndcblindhcm.edu.vn",
+    "Description": "184 Nguyễn Chí Thanh, quận 10, TP HCM, Việt Nam",
+    "Address": "184 Nguyễn Chí Thanh, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 24,
+    "Name": "Trường Khiếm Thị - Nguyễn Tri Phương",
+    "Phone": null,
+    "Website": null,
+    "Description": "Thầy Ðào Khánh Trường (cũng bị mù) là giáo sư Âm nhạc của trường và nuôi các em mù đa số là đang học trung học, đan giỏ thêm trong lúc rãnh rỗi để kiếm tiền thêm &amp; có đi hòa tấu nhạc với Thầy.",
+    "Address": "266/227 Nguyễn Tri Phương, phường 4, quận 10, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 10"
+  },
+  {
+    "Id": 25,
+    "Name": "Hội Người Mù quận 12",
+    "Phone": null,
+    "Website": null,
+    "Description": "1/5C1 Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12, TP HCM, Việt Nam",
+    "Address": "1/5C1 Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 26,
+    "Name": "Khám, Chữa Bịnh Cho Người Nghèo - Nhà thờ Lạc Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "2003: Sáng thứ 7 hằng tuần, tại nhà thờ Lạc Quang luôn tổ chức khám chữa binh cho bà con trong giáo xứ và cho tất cả cả quý vị. Địa chỉ liên lạc: 44/5A Tân Thới Nhất, Ấp Lạc Quang, phường Tân Thới Nhất, Q.12, TP.HCM.Điện thoại: (08) 3719 0754 - (08) 359 ...",
+    "Address": "44/5A Tân Thới Nhất, Ấp Lạc Quang, phường Tân Thới Nhất, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 27,
+    "Name": "Phòng Khám Bệnh miễn phí - Chùa Tường Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "2008: Phòng Khám Bệnh miễn phí đã thành lập 10 năm, do sư cô Chúc Hiền trụ trì.",
+    "Address": "19/9 Phan Văn Hớn, phường Tân Thới Nhất, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 28,
+    "Name": "Quán cơm 3.000 đồng Đoàn Viên",
+    "Phone": null,
+    "Website": null,
+    "Description": "29-09-2014 Nhân viên quán cơm Đoàn viên ân cần phục vụ thực khách.Quán cơm Đoàn viên ở khu phố 4, phường Tân Thới Hiệp, quận 12, TP Hồ Chí Minh đã trở thành địa chỉ quen thuộc của nhiều người lao động nghèo. Mỗi phần cơm ở đây chỉ bán với giá ...",
+    "Address": "Khu phố 4, phường Tân Thới Hiệp, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 29,
+    "Name": "Trung tâm bảo trợ người bại liệt Thạnh Lộc",
+    "Phone": null,
+    "Website": null,
+    "Description": "Sáng 24/12/2014, Sở Lao động – Thương binh và xã hội TPHCM tổ chức lễ khánh thành Trung tâm Nuôi dưỡng bảo trợ người bại liệt Thạnh Lộc tại địa chỉ 3E Tô Ngọc Vân, phường Thạnh Xuân, quận 12.Sau hơn 1,5 năm thi công, trung tâm được xây dựng mới trên diệ ...",
+    "Address": "3E Tô Ngọc Vân, phường Thạnh Xuân, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 30,
+    "Name": "Trường chuyên biệt Ánh Dương",
+    "Phone": null,
+    "Website": null,
+    "Description": "37/7 Tô Ký, Khu phố 3, phường Tân Chánh Hiệp, quận 12, TP HCM, Việt Nam",
+    "Address": "37/7 Tô Ký, Khu phố 3, phường Tân Chánh Hiệp, quận 12, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 12"
+  },
+  {
+    "Id": 31,
+    "Name": "Hưng Cần Tự (Cần Giờ)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "394/2 ấp Phong Thạnh, thị trấn Cần Thạnh, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 32,
+    "Name": "Hưng Lợi Tự (Cần Giờ)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "Ấp Thạnh Hòa, xã Thạnh An, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 33,
+    "Name": "Hưng Quảng Tự (Cần Giờ)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "Ấp An Phước, xã Tam Thôn Hiệp, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 34,
+    "Name": "Nhà Mở Tam Thôn Hiệp",
+    "Phone": null,
+    "Website": null,
+    "Description": "Ấp An Lộc, xã Tam Thôn Hiệp, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Address": "Ấp An Lộc, xã Tam Thôn Hiệp, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 35,
+    "Name": "Trung tâm xã hội Cần Giờ",
+    "Phone": null,
+    "Website": "www.ttxhcangio.com",
+    "Description": "Nuôi và dạy học trẻ em khuyết tật,Chăm sóc - Dưỡng lão,Dạy nghề cho thanh thiếu niên",
+    "Address": "183/2 Đào Cử, thị trấn Cần Thạnh, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 36,
+    "Name": "Trường chuyên biệt Cần Thạnh",
+    "Phone": null,
+    "Website": null,
+    "Description": "Ấp Phong Thạnh, xã Cần Thạnh, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Address": "Ấp Phong Thạnh, xã Cần Thạnh, huyện Cần Giờ, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Cần Giờ"
+  },
+  {
+    "Id": 37,
+    "Name": "Chi Hội Bảo Trợ Bệnh Nhân Nghèo Nhơn Hòa (Hóc Môn)",
+    "Phone": null,
+    "Website": "www.nhonhoa.org",
+    "Description": "Mục tiêu của hoạt động từ thiện của Chi hội Nhơn Hòa_&nbsp; Để nhận được sự hỗ trợ của tất cả các nhà hảo tâm và mạnh thường quân._ Từ các cá nhân, các nhóm, và các tổ chức trong và ngoài nước._ Tổ chức phục vụ các bữa ăn từ thiện cho bệnh nhân nghèo tại ...",
+    "Address": "Ấp I, xã Xuân Thới Sơn, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Hóc Môn"
+  },
+  {
+    "Id": 38,
+    "Name": "Hội Người Mù huyện Hóc Môn",
+    "Phone": null,
+    "Website": null,
+    "Description": "E11/4 ấp Tân Thới 3, xã Tân Hiệp, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Address": "E11/4 ấp Tân Thới 3, xã Tân Hiệp, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Hóc Môn"
+  },
+  {
+    "Id": 39,
+    "Name": "Hưng Trung Tự (Hóc Môn)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "13/4 ấp Chánh 2, xã Tân Xuân, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Hóc Môn"
+  },
+  {
+    "Id": 40,
+    "Name": "Mái Ấm Thành Đạt",
+    "Phone": null,
+    "Website": null,
+    "Description": "2/1C ấp Tam Đông, xã Thới Tam Thôn, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Address": "2/1C ấp Tam Đông, xã Thới Tam Thôn, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Hóc Môn"
+  },
+  {
+    "Id": 41,
+    "Name": "Trung tâm dạy nghề cho người khuyết tật và trẻ mồ côi T...",
+    "Phone": null,
+    "Website": null,
+    "Description": "Ấp 6, xã Xuân Thới Thượng, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Address": "Ấp 6, xã Xuân Thới Thượng, huyện Hóc Môn, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "huyện Hóc Môn"
+  },
+  {
+    "Id": 42,
+    "Name": "Bếp ăn từ thiện Bệnh viện Ung bướu TP HCM",
+    "Phone": null,
+    "Website": null,
+    "Description": "BV ung bướu TP HCM là một trong những BV lớn nhất cả nước với tần xuất bệnh nhân trên 1 giường bệnh rất cao. BV Ung Bướu TP.HCM hàng ngày đón nhận và chữa trị hàng ngàn bệnh nhân ở mọi miền đến đây điều trị bệnh ung thư. Vì là bệnh hiểm nghèo, chữa trị ké ...",
+    "Address": "3 Nơ Trang Long, phường 7, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 43,
+    "Name": "Bếp ăn từ thiện Thiện Tâm (Bình Thạnh)",
+    "Phone": "0918 134 460",
+    "Website": null,
+    "Description": "2013: Hội Chữ thập đỏ Thiện Tâm trực thuộc Hội Chữ thập đỏ quận Bình Thạnh, TPHCM ra đời cách đây 20 năm. Ngoài công tác xã hội, từ thiện, nhân đạo, cách đây 15 năm, những thành viên của Hội đã góp lửa để nhen nhóm một góc bếp, dang rộng vòng tay chia sẻ ...",
+    "Address": "174/30A Chu Văn An, phường 12, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 44,
+    "Name": "CLB Hướng Nghiệp Khuyết Tật Trẻ",
+    "Phone": null,
+    "Website": null,
+    "Description": "217/A10 Xô Viết Nghệ Tĩnh, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "217/A10 Xô Viết Nghệ Tĩnh, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 45,
+    "Name": "Hội Bảo Trợ Trẻ Em TP HCM",
+    "Phone": null,
+    "Website": null,
+    "Description": "85/ 65 Phạm Viết Chánh, phường 19, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "85/ 65 Phạm Viết Chánh, phường 19, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 46,
+    "Name": "Hội từ thiện Cô Ba Hàng Xanh",
+    "Phone": "0902 515 737",
+    "Website": "www.facebook.com/H%E1%BB%99i-T%E1%BB%AB-Thi%E1%BB%87n-C%C3%B...",
+    "Description": "www.facebook.com/H%E1%BB%99i-T%E1%BB%AB-Thi%E1%BB%87n-C%C3%B...",
+    "Address": "quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 47,
+    "Name": "Hưng Gia Tự (Bình Thạnh)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "336 Lê Quang Định, phường 11, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 48,
+    "Name": "Lớp học tình thương Bình Lợi (khuyết tật) - Bình Lợi es...",
+    "Phone": null,
+    "Website": null,
+    "Description": "414/12/36 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "414/12/36 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 49,
+    "Name": "Mái Ấm Bà Chiểu",
+    "Phone": null,
+    "Website": null,
+    "Description": "149/ 1 Nguyễn Văn Đậu, phường 11, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "149/ 1 Nguyễn Văn Đậu, phường 11, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 50,
+    "Name": "Mái Ấm Tình Thương - Chùa Diệu Pháp",
+    "Phone": null,
+    "Website": "chuadieuphap.com.vn",
+    "Description": "Với tinh thần hướng đạo vào đời, lấy việc đời làm việc đạo, thực hiện lời Phật dạy “phụng sự chúng sinh là cúng dường chư Phật”, nên hơn 10 năm qua chùa Diệu Pháp luôn là nơi tìm đến của những người già cả, neo đơn cần được giúp đỡ. Và cũng từ đó, những n ...",
+    "Address": "188 Nơ Trang Long (nối dài), phường 13 (cầu Bình Lợi), quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 51,
+    "Name": "Nhà dưỡng lão tình thương Vinh Sơn",
+    "Phone": null,
+    "Website": null,
+    "Description": "469 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "469 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 52,
+    "Name": "Phòng chẩn trị Đông y Hội Chữ Thập Đỏ quận Bình Thạnh",
+    "Phone": null,
+    "Website": null,
+    "Description": "chỉ châm cứu, bấm quyệt.2014: Thời gian làm việc: Thứ 2 – thứ 6, từ 8h – 11h30",
+    "Address": "53 Vũ Tùng, phường 2, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 53,
+    "Name": "Phòng chẩn trị y học cổ truyền Trạm y tế phường 11",
+    "Phone": "(08) 3806 0635",
+    "Website": null,
+    "Description": "Phòng chẩn trị y học cổ truyền Trạm y tế phường 11.2014: Thời gian làm việc: Thứ 2 – thứ 6, từ 7h – 12h",
+    "Address": "quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 54,
+    "Name": "Phòng khám Tuệ Tĩnh Đường 2 - Tịnh xá Trung tâm",
+    "Phone": "(028) 3515 0386",
+    "Website": null,
+    "Description": "21 Nguyễn Trung Trực, phường 5, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "21 Nguyễn Trung Trực, phường 5, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 55,
+    "Name": "Phòng thuốc y học cổ truyền - Thánh Thất Bình Hòa",
+    "Phone": null,
+    "Website": null,
+    "Description": "2014: Thời gian làm việc:- Khám bệnh từ thứ 2, 4, 6- Châm cứu thứ 3, 5, 7 - Sáng từ 8h – 10h30, chiều từ 14h – 15h30 .",
+    "Address": "174/30A Chu Văn An, phường 12, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 56,
+    "Name": "Trung Tâm Bảo Trợ xã Hội Chánh Phú Hòa",
+    "Phone": null,
+    "Website": null,
+    "Description": "153 Xô Viết Nghệ Tĩnh, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "153 Xô Viết Nghệ Tĩnh, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 57,
+    "Name": "Trung tâm công tác xã hội Tình Thân",
+    "Phone": null,
+    "Website": null,
+    "Description": "54/3 Lê Quang Định, phường 14, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "54/3 Lê Quang Định, phường 14, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 58,
+    "Name": "Trung Tâm Hỗ Trợ xã Hội",
+    "Phone": null,
+    "Website": null,
+    "Description": "463 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "463 Nơ Trang Long, phường 13, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 59,
+    "Name": "Trung Tâm Nuôi Dưỡng Bảo Trợ Người Bại Liệt Thạnh Lộc",
+    "Phone": null,
+    "Website": null,
+    "Description": "106/14D Điện Biên Phủ, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "106/14D Điện Biên Phủ, phường 17, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 60,
+    "Name": "Trung Tâm Nuôi Dưỡng Bảo Trợ Trẻ Mồ Côi Tàn Tật Thị Ngh...",
+    "Phone": null,
+    "Website": "tremocoithinghe.vn",
+    "Description": "153 Xô Viết Nghệ Tĩnh, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "153 Xô Viết Nghệ Tĩnh, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 61,
+    "Name": "Trường Câm Điếc Hy Vọng - Hope Dumb and Deaf school",
+    "Phone": null,
+    "Website": null,
+    "Description": "25 Nguyễn Văn Lạc, phường 21, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Address": "25 Nguyễn Văn Lạc, phường 21, quận Bình Thạnh, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Thạnh"
+  },
+  {
+    "Id": 62,
+    "Name": "An Dưỡng Viện Phát Diệm",
+    "Phone": null,
+    "Website": null,
+    "Description": "212 Lê Ðức Thọ, phường 15, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "212 Lê Ðức Thọ, phường 15, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 63,
+    "Name": "Hội Người Mù quận Gò Vấp",
+    "Phone": null,
+    "Website": null,
+    "Description": "43/7 Thiên Hộ Dương, phường 1, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "43/7 Thiên Hộ Dương, phường 1, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 64,
+    "Name": "Hội Từ Thiện Thanh Niên Phật Giáo - Việt Nam",
+    "Phone": null,
+    "Website": "www.facebook.com/thanhnienphatgiao/",
+    "Description": "www.facebook.com/thanhnienphatgiao/",
+    "Address": "Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "Gò Vấp"
+  },
+  {
+    "Id": 65,
+    "Name": "Làng Trẻ Em SOS (TP HCM)",
+    "Phone": null,
+    "Website": "www.sosvietnam.org",
+    "Description": "là một tổ chức hoạt động giúp đỡ trẻ em có hoàn cảnh khó khăn có được một mái ấm gia đình.Chúng tôi giúp trẻ thiếu sự chăm sóc của cha mẹ được sống trong một gia đình mới và phát triển một cách tự nhiên nhất có thể.Chúng tôi hỗ trợ các em từ nhỏ cho đ ...",
+    "Address": "697 Quang Trung, phường 12, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 66,
+    "Name": "Nuôi trẻ mồ côi - Chùa Kỳ Quang (Gò Vấp)",
+    "Phone": null,
+    "Website": null,
+    "Description": "154/4A Lê Hoàng Phái, phường 17, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "154/4A Lê Hoàng Phái, phường 17, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 67,
+    "Name": "Phòng khám Tuệ Hải Đường",
+    "Phone": null,
+    "Website": null,
+    "Description": "105/70 Cây Trâm, phường 9, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "105/70 Cây Trâm, phường 9, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 68,
+    "Name": "Phòng Tư Vấn Truyền Thông Hỗ Trợ Cộng Đồng",
+    "Phone": null,
+    "Website": null,
+    "Description": "326/10 đường số 8, phường 11, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "326/10 đường số 8, phường 11, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 69,
+    "Name": "Trung Tâm Nuôi Dưỡng Bảo Trợ Trẻ Em Gò Vấp",
+    "Phone": "(028) 3895 5581",
+    "Website": null,
+    "Description": "45 Nguyễn Văn Bảo, phường 4, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "45 Nguyễn Văn Bảo, phường 4, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 70,
+    "Name": "Trường Nuôi Dạy Thanh Thiếu Niên Khiếm Thị và Khuyết Tậ...",
+    "Phone": "0903 005 442",
+    "Website": null,
+    "Description": "40/450 A2 Lê Đức Thọ, phường 17, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "40/450 A2 Lê Đức Thọ, phường 17, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 71,
+    "Name": "Trường nuôi trẻ khuyết tật Hoàng Mai - Hoang Mai disabl...",
+    "Phone": null,
+    "Website": null,
+    "Description": "631/37/2 Lê Đức Thọ, phường 16, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "631/37/2 Lê Đức Thọ, phường 16, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 72,
+    "Name": "Trường Tương Lai - Gò Vấp (dạy trẻ chậm triển) - Go Vap...",
+    "Phone": null,
+    "Website": null,
+    "Description": "96 Nguyễn Thượng Hiền, phường 5, quận Gò Vấp, TP HCM, Việt Nam",
+    "Address": "96 Nguyễn Thượng Hiền, phường 5, quận Gò Vấp, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Gò Vấp"
+  },
+  {
+    "Id": 73,
+    "Name": "Hội Người Mù Phú Nhuận",
+    "Phone": null,
+    "Website": null,
+    "Description": "466 Nguyễn Kiệm, phường 3, quận Phú Nhuận, TP HCM, Việt Nam",
+    "Address": "466 Nguyễn Kiệm, phường 3, quận Phú Nhuận, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Phú Nhuận"
+  },
+  {
+    "Id": 74,
+    "Name": "Nhóm thiện nguyện Thiền Tâm",
+    "Phone": "0906 266 003",
+    "Website": "www.facebook.com/thiennguyenthientam2017/",
+    "Description": "Hạnh phúc là sẻ chia - Đem yêu thương đến với mọi người, thắp lên ngọn lửa thiện nguyện ấm áp đến với những hoàn cảnh còn gặp nhiều khó khăn trong cuộc sống.",
+    "Address": "Quận Phú Nhuận, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "Quận Phú Nhuận"
+  },
+  {
+    "Id": 75,
+    "Name": "Nuôi trẻ mồ côi - Chùa Kỳ Quang 1 (Phú Nhuận)",
+    "Phone": "0903 005 442",
+    "Website": null,
+    "Description": "22 B Nguyễn Thị Huỳnh, phường 8, quận Phú Nhuận, TP HCM, Việt Nam",
+    "Address": "22 B Nguyễn Thị Huỳnh, phường 8, quận Phú Nhuận, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Phú Nhuận"
+  },
+  {
+    "Id": 76,
+    "Name": "Bếp ăn từ thiện Phật Giáo Hòa Hảo",
+    "Phone": null,
+    "Website": null,
+    "Description": "538/35  Lý Thường Kiệt, phường 7, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "538/35  Lý Thường Kiệt, phường 7, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 77,
+    "Name": "Chi Hội Từ thiện Bình Phú Đông",
+    "Phone": null,
+    "Website": null,
+    "Description": "274 Hồng Lạc, phường 11, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "274 Hồng Lạc, phường 11, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 78,
+    "Name": "Chương Trình Ai Là Anh Em Tôi",
+    "Phone": null,
+    "Website": null,
+    "Description": "Giúp đỡ người bệnh phong người nghèo khổ, bệnh tật.Phụ Trách: LM Vincent Nguyễn Bá Quý, Tu Viện Đắc Lộ.",
+    "Address": "97 Trường Chinh, phường 12, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 79,
+    "Name": "Đoàn Y Bác sĩ  Tình Nguyện Niềm Tin",
+    "Phone": null,
+    "Website": "www.bsniemtin.com",
+    "Description": "Tình Nguyện bsniemtin được thành lập ngày 09 tháng 09-2009 trên một &nbsp;chuyến xe đò về Bình Định Hoạt động chủ yếu khám và chửa bệnh miễn phí &nbsp;cho bệnh nhân &nbsp;nghèo vùng sâu vùng xa,chăm sóc bệnh nhân ung thư. HIV AIDS giai đoạn cuối ,giúp đỡ trẻ em mồ côi.t ...",
+    "Address": "104-106 Bạch Đằng, phường 2, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 80,
+    "Name": "Hội Người Mù quận Tân Bình",
+    "Phone": null,
+    "Website": null,
+    "Description": "338/51 Âu Cơ, phường 10, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "338/51 Âu Cơ, phường 10, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 81,
+    "Name": "Mái Ấm Tân Bình",
+    "Phone": null,
+    "Website": null,
+    "Description": "1A Đồng Đen, phường 12, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "1A Đồng Đen, phường 12, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 82,
+    "Name": "Nhà Hưu Dưỡng Linh Mục Chí Hòa",
+    "Phone": null,
+    "Website": null,
+    "Description": "149 Bành Văn Trân, phường 7, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "149 Bành Văn Trân, phường 7, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 83,
+    "Name": "Nhà Tình Thương (trẻ mồ côi, bại liệt) - Mercy home (or...",
+    "Phone": null,
+    "Website": null,
+    "Description": "128/10 Lạc Long quân, phường 8, quận Tân Bình, TP HCM, Việt Nam",
+    "Address": "128/10 Lạc Long quân, phường 8, quận Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Bình"
+  },
+  {
+    "Id": 84,
+    "Name": "Nhóm Từ Tâm Nhân Ái",
+    "Phone": "0908 174 120",
+    "Website": "www.facebook.com/NhomTuThienTuTamNhanAi/",
+    "Description": "Hội được thành lập từ năm 2010 đến nay và lấy tên là “NHÓM TỪ THIỆN TỪ TÂM-NHÂN ÁI”&nbsp;“HỘI TỪ THIỆN TỪ TÂM-NHÂN ÁI”Mỗi tháng định kỳ Hội nấu cơm từ thiện từ 1-2 lần, mỗi lẫn từ 200 – 400 ...",
+    "Address": "C16 Cư xá Tân Trụ, Phan Huy Ích, phường 15, Tân Bình, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "Tân Bình"
+  },
+  {
+    "Id": 85,
+    "Name": "CLB Từ Thiện Ánh Sao",
+    "Phone": "0982 418 358",
+    "Website": "www.facebook.com/pages/Nh%C3%B3m-T%E1%BB%AB-Thi%E1%BB%87n-%C...",
+    "Description": "16 S7 Tây Thạnh, phường Tây Thạnh, quận Tân Phú, TP HCM, Việt Nam",
+    "Address": "16 S7 Tây Thạnh, phường Tây Thạnh, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 86,
+    "Name": "CLB Từ Thiện Hoa Từ Bi",
+    "Phone": "0909 384 968",
+    "Website": "hoatubi.com",
+    "Description": "Với mục đích giúp đỡ và làm đẹp cho đời, HOA TỪ BI ra đời với mong muốn góp phần sức nhỏ bé của mình để giúp đỡ những hoàn cảnh khó khăn, những người già cô đơn những số phận bất hạnh đáng thương của cuộc đời, xã hội còn đang rất cần sự giúp đỡ của chúng ...",
+    "Address": "110/55 Tô Hiệu, phường Hiệp Tân, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 87,
+    "Name": "CLB Từ Thiện Hoa Từ Bi - Quán cơm từ thiện 5000 đồng",
+    "Phone": "0909 384 968",
+    "Website": "hoatubi.com",
+    "Description": "Với mục đích giúp đỡ và làm đẹp cho đời, HOA TỪ BI ra đời với mong muốn góp phần sức nhỏ bé của mình để giúp đỡ những hoàn cảnh khó khăn, những người già cô đơn những số phận bất hạnh đáng thương của cuộc đời, xã hội còn đang rất cần sự giúp đỡ của chúng ...",
+    "Address": "110/55 Tô Hiệu, phường Hiệp Tân, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 88,
+    "Name": "Cơ sở từ thiện xã hội Hòa Hảo",
+    "Phone": "0902 409 149",
+    "Website": "www.lophoctinhthuonghoahao.com",
+    "Description": "Nuôi trẻ mồ côi, Lớp học tình thương, Hổ trợ người nghèo khi qua đời,- Cấp cơm miễn phí cho bệnh nhân nghèo và người già neo đơn tàn tật (qua giới thiệu của chính quyền địa phương, Thuốc nam miễn phí.",
+    "Address": "166 Phan Anh, phường Tân Thới Hòa, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 89,
+    "Name": "Mái ấm Hoa Mẫu Đơn",
+    "Phone": null,
+    "Website": null,
+    "Description": "25/30 Đoàn Giỏi, phường Sơn Kỳ, quận Tân Phú, TP HCM, Việt Nam",
+    "Address": "25/30 Đoàn Giỏi, phường Sơn Kỳ, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 90,
+    "Name": "Mái Ấm Thiên Ân - Thien An Home",
+    "Phone": "0908 363 040",
+    "Website": "www.maiamthienan.org",
+    "Description": "Tạo cơ hội cho trẻ khiếm thị có hoàn cảnh khó khăn được tiếp cận nền giáo dục toàn diện và phù hợp, giúp trẻ phát triển hết tiềm năng, có được kiến thức và kỹ năng cần thiết để vươn lên vui sống tự lập và hòa nhập xã hội.",
+    "Address": "122 Nguyễn Ngọc Nhựt, phường Tân Quý, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 91,
+    "Name": "Quán cơm từ thiện 5000 đồng - CLB Từ Thiện Hoa Từ Bi",
+    "Phone": null,
+    "Website": null,
+    "Description": "quận Tân Phú, TP HCM, Việt Nam",
+    "Address": "quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 92,
+    "Name": "Quán cơm xã hội Nụ Cười 2 (Tân Phú)",
+    "Phone": "0913 802 838",
+    "Website": null,
+    "Description": "Quán cơm tương trợ Nụ Cười 2 được triển khai sau quán Nụ Cười 1 khoảng 5 tháng, quán chính thức đi vào hoạt động vào ngày 15/3/2013. Hiện nay quán hoạt động các ngày từ thứ 2 đến thứ 7 trong tuần, cung cấp khoảng 500 suất ăn giá rẻ/ ngày cho đối tượng ngư ...",
+    "Address": "46/22 Nguyễn Ngọc Nhựt, phường Tân Quý, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 93,
+    "Name": "Trường Chuyên biệt Bình Minh (trè em chậm phát triền, b...",
+    "Phone": null,
+    "Website": null,
+    "Description": "10 Nguyễn Thái Học, phường Tân Thành, quận Tân Phú, TP HCM, Việt Nam",
+    "Address": "10 Nguyễn Thái Học, phường Tân Thành, quận Tân Phú, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Tân Phú"
+  },
+  {
+    "Id": 94,
+    "Name": "Bếp ăn từ thiện Phước Thiện - Bệnh viện Nhi Đồng 1",
+    "Phone": null,
+    "Website": null,
+    "Description": "Khu công nghiệp Tân Tạo, quận Bình Tân, TP HCM, Việt Nam",
+    "Address": "Khu công nghiệp Tân Tạo, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 95,
+    "Name": "Hội thiện nguyện BDS - Giữa 'ma trận' thông tin nghèo k...",
+    "Phone": "0906 863 943",
+    "Website": "www.facebook.com/hoithiennguyensbds/",
+    "Description": "09/06/2020Hơn một thập kỷ bỏ công sức và tài sản để xác minh những hoàn cảnh trước khi kêu gọi giúp đỡ, ông Trần Huy Đăng (Hội thiện nguyện BDS) được nhiều người gọi là “kẻ lắm chuyện nhưng ông chưa bao giờ từ bỏ.  Không chỉ quyên tặn ...",
+    "Address": "261 Tên Lửa, phường Bình Trị Đông, quận Bình Tân, TP HCM, Việt Nam, 700000",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 96,
+    "Name": "Mái Ấm Huynh Đệ Như Nghĩa",
+    "Phone": null,
+    "Website": null,
+    "Description": "267/4 Nguyễn Thị Tú, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM, Việt Nam",
+    "Address": "267/4 Nguyễn Thị Tú, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 97,
+    "Name": "Maison Chance - Nhà May Mắn (Bình Tân) - Làng May Mắn",
+    "Phone": null,
+    "Website": "www.maison-chance.org",
+    "Description": "Nhà May Mắn&nbsp;là một bàn đạp cho những người khuyết tật, trẻ em mồ côi, trẻ em đường phố và những người có hoàn cảnh khó khăn tại Việt Nam. Hàng ngày, mọi người đoàn kết sống trong một môi trường gia đình là một tính năng độc đáo của Nhà May Mắn. Ở đây cu ...",
+    "Address": "38D đường số 18B, khu phố 22, phường Bình Hưng Hòa A, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 98,
+    "Name": "Maison Chance - Trung Tâm Chắp Cánh - Take Wings Center",
+    "Phone": null,
+    "Website": "www.maison-chance.org",
+    "Description": "Nhà May Mắn&nbsp;là một bàn đạp cho những người khuyết tật, trẻ em mồ côi, trẻ em đường phố và những người có hoàn cảnh khó khăn tại Việt Nam. Hàng ngày, mọi người đoàn kết sống trong một môi trường gia đình là một tính năng độc đáo của Nhà May Mắn. Ở đây cu ...",
+    "Address": "19A đường số 1, khu phố 9, phường Bình Hưng Hòa, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 99,
+    "Name": "Nhà dưỡng lão Minh Trần",
+    "Phone": null,
+    "Website": null,
+    "Description": "321 Bình Long, khu phố 5, phường Bình Hưng Hòa A, quận Bình Tân, TP HCM, Việt Nam",
+    "Address": "321 Bình Long, khu phố 5, phường Bình Hưng Hòa A, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 100,
+    "Name": "Nhà Nuôi Trẻ Em - Chùa Từ Hạnh",
+    "Phone": null,
+    "Website": "www.thuvienhoasen.org/ttxh-traitimtuhanh.htm",
+    "Description": "2008: Nuôi dưỡng trên 50 đứa trẻ con nhà nghèo bằng cách này hay cách khác được quy tụ về đây.",
+    "Address": "574/1 Kinh Dương Vương, phường An Lạc, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 101,
+    "Name": "Những đứa con của Rồng - Les Enfants du Dragon (The Dra...",
+    "Phone": "0937 126 605",
+    "Website": "lesenfantsdudragon.com",
+    "Description": "Hội Những đứa con của rồng (Les enfants du dragon) là một tổ chức của Pháp, đựợc thành lập theo Luật ngày 01/07/1901, khai báo ngày 15/02/2009 và công bố trên Journal officiel của Pháp ngày 07/03/2009 với số niêm yết là 20090010 và mã xác nhận WALDE ...",
+    "Address": "66/21 đường Cây Cám, Phường Bình Hưng Hòa B, quận Bình Tân, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận Bình Tân"
+  },
+  {
+    "Id": 102,
+    "Name": "Cơ sở Mái ấm Thiên Ân",
+    "Phone": null,
+    "Website": null,
+    "Description": "93/6 đường số 8, phường Tam Phú, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "93/6 đường số 8, phường Tam Phú, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 103,
+    "Name": "Hội Người Mù quận Thủ Đức",
+    "Phone": null,
+    "Website": null,
+    "Description": "91 Khu phố 3, đường số 8, phường Linh Trung, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "91 Khu phố 3, đường số 8, phường Linh Trung, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 104,
+    "Name": "Làng Thiếu Niên Thủ Đức Picasso - Picasso Orphanage",
+    "Phone": null,
+    "Website": null,
+    "Description": "18 Võ Văn Ngân, phường Trường Thọ, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "18 Võ Văn Ngân, phường Trường Thọ, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 105,
+    "Name": "Mái ấm Mai Tâm (nuôi trẻ mồ côi &amp; Sida)",
+    "Phone": null,
+    "Website": null,
+    "Description": "23 đường số 15, KP 1, phường Hiệp Bình Chánh, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "23 đường số 15, KP 1, phường Hiệp Bình Chánh, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 106,
+    "Name": "Quán cơm 3.000 đồng (Thủ Đức)",
+    "Phone": null,
+    "Website": null,
+    "Description": "12/03/2020(CAO)&nbsp;Nhận thấy người dân trên địa bàn còn nghèo khó, trong khi vật giá thị trường ngày càng cao, các cán bộ, chiến sĩ Đội CSGT Q.Thủ Đức, TP.HCM đã phối hợp với P.Tam Phú mở một quán cơm với giá rẻ&nbsp;để bán cho các người dân có hoàn cảnh khó ...",
+    "Address": "Phường Tam Phú, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 107,
+    "Name": "Quán cơm xã hội Nụ Cười 6 (Thủ Đức)",
+    "Phone": "0903 817 567",
+    "Website": null,
+    "Description": "Quán cơm xã hội Nụ Cười 6 là quán cơm 2.000đ tiếp theo nằm trong dự án trợ giúp suất ăn giá rẻ của Quỹ từ thiện Tình Thương TP HCM. Quán khai trương ngày 19/10/2013. Hiện nay quán bán khoảng 500 suất ăn/ ngày vào các buổi trưa thứ 3, 5, 7 trong tuần.&nbsp; ...",
+    "Address": "43 đường B, phường Hiệp Bình Chánh, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 108,
+    "Name": "Quỹ Hỗ Trợ Nhân Đạo Sen Hồng – SEHOVINAF",
+    "Phone": null,
+    "Website": "quysenhong.com",
+    "Description": "Chúng tôi là tổ chức phi lợi nhuận, hoạt động trong lĩnh vực nhân đạo, từ thiện nhằm hỗ trợ trong cộng đồng đối với những người có hoàn cảnh khó khăn, đặc biệt là những người kém may mắn, ở vùng sâu, vùng xa, người khuyết tật, nạn nhân chất độc da cam, bệ ...",
+    "Address": "133 Đường số 10, phường Phước Bình, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 109,
+    "Name": "Trung Tâm Bảo Trợ Người Tàn Tật Hiệp Bình Chánh",
+    "Phone": null,
+    "Website": null,
+    "Description": "15/11 QL13, phường Hiệp Bình Chánh, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "15/11 QL13, phường Hiệp Bình Chánh, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 110,
+    "Name": "Trung tâm điều dưỡng người bệnh tâm thần Thủ Đức",
+    "Phone": null,
+    "Website": null,
+    "Description": "37 Phú Châu, phường Tam Phú, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "37 Phú Châu, phường Tam Phú, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 111,
+    "Name": "Trung tâm nuôi dưỡng bảo trợ trẻ em Linh Xuân",
+    "Phone": null,
+    "Website": null,
+    "Description": "30/3 Bà Giang (đường số 5), phường Linh Xuân, TP Thủ Đức, TP HCM, Việt Nam",
+    "Address": "30/3 Bà Giang (đường số 5), phường Linh Xuân, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 112,
+    "Name": "Trung Tâm Nuôi Dưỡng Bảo Trợ Trẻ Em Tam Bình",
+    "Phone": null,
+    "Website": "www.tambinh.org",
+    "Description": "là một cơ sở xã hội, trực thuộc Sở Lao động – Thương binh &amp; xã hội TP Hồ Chí Minh. Hiện trung tâm đang nuôi dưỡng và chăm sóc cho 175 cháu từ sơ sinh đến 18 tuổi. Hầu hết các cháu đều là trẻ mồ côi bị bỏ rơi ở các bệnh viện, nhà bảo sanh đóng trên địa b ...",
+    "Address": "273 Quốc Lộ 1A, phường Bình Chiểu, TP Thủ Đức, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "TP Thủ Đức"
+  },
+  {
+    "Id": 113,
+    "Name": "Bếp ăn từ thiện Bảo Hòa - quận 1",
+    "Phone": "0906 095 142",
+    "Website": null,
+    "Description": "15/10/2008:&nbsp;Hàng trăm bệnh nhân xếp thành hai hàng trong con ngõ nhỏ của đường Nơ Trang Long, Phú Nhuận, TPHCM. Trên tay họ cầm những chiếc cặp lồng đợi đến lượt mình nhận quà từ Chi hội từ thiện Bảo Hòa chi nhánh Ung Bướu.Tận mắt chứng kiến những giọt ...",
+    "Address": "51 Nguyễn Văn Giai, phường Đa Kao, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 114,
+    "Name": "Đoàn Từ Thiện Minh Tâm - Chi hội Bảo trợ bệnh nhân nghè...",
+    "Phone": null,
+    "Website": "tuthienminhtam.wordpress.com",
+    "Description": "Cảm nhận được những khó khăn vất vả đang hằng ngày diễn ra với những mãnh đời bất hạnh, xuất phát từ trăn trở sẻ chia với một ước nguyện mong làm dịu đi những nỗi đau ngặt nghèo, tháng 8 năm 2006, một nhóm nhỏ tự phát gồm bạn bè thân hữu trong đó có các y ...",
+    "Address": "106C Nguyễn Văn Cừ, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 115,
+    "Name": "Hội Bảo Trợ Người Tàn Tật và Trẻ Mồ Côi TP HCM",
+    "Phone": null,
+    "Website": "www.nguoikhuyettathcm.org",
+    "Description": "Đơn xin Xe lăn - cho toàn quốc - của Hội Bảo Trợ Người Tàn Tật và Trẻ Mồ Côi TP HCMTÔN CHỈ:&nbsp;Hội là một tổ chức phi chính phủ, xã hội, từ thiện tập hợp mọi tổ chức, cá nhân có tấm lòng tự nguyện tham gia hoạt động của Hội để giúp đở người khuyết tật và t ...",
+    "Address": "33B Phùng Khắc Khoan, phường Ða Kao, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 116,
+    "Name": "Hội Bảo Trợ Quyền Trẻ Em",
+    "Phone": null,
+    "Website": null,
+    "Description": "181 Nguyễn Cư Trinh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Address": "181 Nguyễn Cư Trinh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 117,
+    "Name": "Hội Chữ Thập Đỏ Việt Nam - Red Cross Vietnam",
+    "Phone": null,
+    "Website": "www.redcross.org.vn",
+    "Description": "là tổ chức xã hội nhân đạo của quần chúng, do Chủ tịch Hồ Chí Minh sáng lập ngày 23/11/1946 và Người làm Chủ tịch danh dự đầu tiên của Hội. Hội tập hợp mọi người Việt Nam, không phân biệt thành phần dân tộc, tôn giáo, nam nữ để làm công tác nhân đạo.Mục ...",
+    "Address": "201 Nguyễn Thị Minh Khai, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 118,
+    "Name": "Hội Cứu Trợ Trẻ Em Tàn Tật TP HCM",
+    "Phone": null,
+    "Website": null,
+    "Description": "2011: Qua 15 năm hoạt động từ thiện nhân đạo, Hội cứu trợ trẻ em tàn tật thành phố đã đạt được những kết quả đáng khích lệ. Đến nay, Hội đã phát triển được 20 chi hội ở các trung tâm nuôi dạy trẻ khuyết tật, các bệnh viện và nhiều cơ quan, đơn vị với trên ...",
+    "Address": "172 Đề Thám, phường Cầu Ông Lãnh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 119,
+    "Name": "Hội Khuyến học TP HCM",
+    "Phone": null,
+    "Website": "khuyenhochcm.com.vn",
+    "Description": "Thành hội là một tổ chức xã hội đặt dưới sự lãnh đạo của Thành ủy, sự quản lý của Ủy ban nhân dân thành phố và là thành viên của Mặt trận Tổ quốc Việt Nam, là cấp trực thuộc Trung ương Hội Khuyến học Việt Nam.- Đối với Sở Giáo dục: Tiếp tục thực hiện tố ...",
+    "Address": "66-68 Lê Thánh Tôn, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 120,
+    "Name": "Hội Người Mù TP HCM",
+    "Phone": null,
+    "Website": null,
+    "Description": "185 Cống Quỳnh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Address": "185 Cống Quỳnh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 121,
+    "Name": "Mái Ấm Trẻ Xanh",
+    "Phone": null,
+    "Website": null,
+    "Description": "40/ 34 Calmette, phường Nguyễn Thái Bình, quận 1, TP HCM, Việt Nam",
+    "Address": "40/ 34 Calmette, phường Nguyễn Thái Bình, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 122,
+    "Name": "Nhóm nấu từ thiện Tùy Duyên",
+    "Phone": null,
+    "Website": null,
+    "Description": "08/11/2016: 18 năm qua, ông Nguyễn Văn Sang, “bếp trưởng” của nhóm nấu từ thiện Tùy Duyên, không thể thống kê hết số suất ăn đã phục vụ miễn phí cho những mảnh đời kém may mắn.Khó ai có thể hình dung người đàn ông ăn mặc xuềnh xoàng, hằng ngày đẩy xe tr ...",
+    "Address": "1 Nam Quốc Cang, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 123,
+    "Name": "Phòng Khám Bệnh Từ Thiện - Chùa Vạn Thọ",
+    "Phone": null,
+    "Website": null,
+    "Description": "Phòng Khám Bệnh Từ Thiện Chùa Vạn Thọ do Hòa thượng Thích Thanh Sơn ( trụ trì chùa Vạn Thọ)&nbsp; và các sư đều là lương ý có bằng cấp y học cổ truyền lập nên để khám bệnh cho người nghèo. Phòng khám đã được Sở Y tế TP HCM cấp giấy phép hoạt động.- Điều trị ...",
+    "Address": "212/158 Nguyễn Văn Nguyễn, phường Đa Kao, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 124,
+    "Name": "Phòng khám Nam Thành Thánh Thất",
+    "Phone": null,
+    "Website": null,
+    "Description": "124 – 126 Nguyễn Cư Trinh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Address": "124 – 126 Nguyễn Cư Trinh, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 125,
+    "Name": "Phòng khám Nhà thờ Thánh An Tôn",
+    "Phone": null,
+    "Website": null,
+    "Description": "18 Phan V ăn Trường, phường Cầu Ông Lãnh, quận 1, TP HCM, Việt Nam",
+    "Address": "18 Phan V ăn Trường, phường Cầu Ông Lãnh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 126,
+    "Name": "Quán cơm xã hội Nụ Cười 1 (quận 1)",
+    "Phone": "0903 817 567",
+    "Website": null,
+    "Description": "Quán cơm xã hội Nụ Cười 1 là quán cơm 2.000đ đầu tiên nằm trong dự án trợ giúp suất ăn giá rẻ của Quỹ từ thiện Tình Thương TP.HCM cho sinh viên, học sinh, bà con lao động, bán vé số, xe đẩy, xe ôm, đạp xích lô, lượm ve chai, thợ hồ... Quán khai trương ngà ...",
+    "Address": "6 Cống Quỳnh, phường Phạm Ngũ Lão, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 127,
+    "Name": "Quỹ Hy Vọng - Hope Foundation (TP HCM)",
+    "Phone": "0972 776 776",
+    "Website": "quyhyvong.com",
+    "Description": "Quỹ Hy Vọng tin rằng việc kết nối những tấm lòng nhân ái, thúc đẩy ý tưởng sáng tạo sẽ góp phần tạo nên một xã hội bình đẳng và tiến bộ.Thực hiện các chương trình nhân đạo; hỗ trợ hạ tầng tại vùng khó khăn; thúc đẩy các ý tưởng ứng dụng công nghệ, hoạ ...",
+    "Address": "Tầng 6, Tòa nhà Exchange Tower, số 1 Nam Kỳ Khởi Nghĩa, phường Nguyễn Thái Bình, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 128,
+    "Name": "Quỹ Từ Thiện Sách Nói Cho Người Mù - Thư viện sách nói",
+    "Phone": null,
+    "Website": "sachnoionline.com",
+    "Description": "Mỗi năm Thư viện sách nói cần khoảng 30.000 băng cassette và CD để làm ra sách nói phục vụ miễn phí cho 89 đơn vị hội người mù và các trường mù trong cả nước. Chúng tôi rất mong sự chung tay góp sức của quý ân nhân để đem đến ánh sáng tinh thần cho người ...",
+    "Address": "5 Đinh Tiên Hoàng, phường Đa Kao, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 129,
+    "Name": "Trại trẻ em tàn tật - Disable children house",
+    "Phone": null,
+    "Website": null,
+    "Description": "284 Cống Quỳnh, phuờng Phạm Ngũ Lão, quận 1, TP HCM, Việt Nam",
+    "Address": "284 Cống Quỳnh, phuờng Phạm Ngũ Lão, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 130,
+    "Name": "Trường Tương Lai (quận 1)",
+    "Phone": null,
+    "Website": null,
+    "Description": "27A2 Trần Nhật Duật, phường Tân Định, quận 1, TP HCM, Việt Nam",
+    "Address": "27A2 Trần Nhật Duật, phường Tân Định, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 131,
+    "Name": "Trường vừa học vừa làm 15 Tháng 5 - The 15 May School",
+    "Phone": null,
+    "Website": "www.15mayschool.org",
+    "Description": "Educating Children to Escape the Streets. To offer relief to the disadvantaged children of Ho Chi Minh City from poverty and exploitation by providing access to education and vocational skills. In doing so we aim to nurture self sufficient and responsible ...",
+    "Address": "245 Nguyễn Trãi, phường Nguyễn Cư Trinh, quận 1, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 1"
+  },
+  {
+    "Id": 132,
+    "Name": "Từ Thiện Xanh - Viet Green Charity",
+    "Phone": "028 6682 8483",
+    "Website": "tuthienxanh.com",
+    "Description": "VIET GREEN CHARITY - Love &amp;amp; Charity ! Dream come true.CLB THIỆN NGUYỆN XANH - TÌNH NGUYỆN XANH - TỪ THIỆN XANH - QUỸ TỪ THIỆN XANHCLB Từ thiện hoạt động không vụ lợi- Ứng xử từ thiện nhân văn- Gieo yêu thương gặt phép màu.Với mục tiêu họat đ ...",
+    "Address": "207/2 Nguyễn Văn Thủ, phường Dakao, quận 1, Việt Nam",
+    "Province": null,
+    "District": "phường Dakao"
+  },
+  {
+    "Id": 133,
+    "Name": "Chùa Kỳ Quang 3 (quận 2)",
+    "Phone": null,
+    "Website": null,
+    "Description": "71 Xa lộ Hà Nội, quận 2, TP HCM, Việt Nam",
+    "Address": "71 Xa lộ Hà Nội, quận 2, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 2"
+  },
+  {
+    "Id": 134,
+    "Name": "Hội Từ Thiện Đất Việt tại Việt Nam - Quỹ Tương Trợ Trẻ ...",
+    "Phone": null,
+    "Website": "www.anhkhoa.ca/datviet/",
+    "Description": "Hội Từ Thiện Đất Việt do ông Nguyễn Quốc Mỹ sáng lập từ năm 1998 tai Thủ Đô Ottawa, Tỉnh Bang Ontario, Canada.Đến năm 2002,&nbsp; Hội Từ Thiện Đất Việt kết hợp với Quỹ Tương Trợ Trẻ Em Tàn Tật do Bà Nguyễn Thị Minh Hương sáng lập. Tổ chức mới được đặt tên là Q ...",
+    "Address": "93 đường số 7, phường An Phú, quận 2, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 2"
+  },
+  {
+    "Id": 135,
+    "Name": "Nhà Tình Thương Chùa Diệu Giác",
+    "Phone": null,
+    "Website": "www.orphaned.org",
+    "Description": "Do một số ni cô người Trung gây dựng, nuôi dưỡng khoảng 100 trẻ em mồ côi. Để gây quỹ cho Cô Nhi Viện, chùa có một quán ăn chay và một tiệm bán đồ thủ công do các em làm.",
+    "Address": "177 Trần Não, phường Bình An, quận 2, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 2"
+  },
+  {
+    "Id": 136,
+    "Name": "Trường chuyên biệt Thảo Điền - Specialized School",
+    "Phone": null,
+    "Website": null,
+    "Description": "91 Thảo Điền, phường Thảo Điền, quận 2, TP HCM, Việt Nam",
+    "Address": "91 Thảo Điền, phường Thảo Điền, quận 2, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 2"
+  },
+  {
+    "Id": 137,
+    "Name": "Bác Ái Phanxicô - Trung Tâm Mục Vụ Dòng Chúa Cứu Thế Vi...",
+    "Phone": null,
+    "Website": "www.trungtammucvudcct.com/web/bacaiphanxico.php",
+    "Description": "Giúp trẻ mồ côi, khuyết tật. Helping the Cripple and Hungy.",
+    "Address": "38 Kỳ Đồng, phường 9, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 138,
+    "Name": "Bếp ăn tình thương - Chùa Vĩnh Xương",
+    "Phone": null,
+    "Website": "www.chuavinhxuong.com",
+    "Description": "Thay mặt tất cả bệnh nhân 3 bênh viện: Ung Bướu - Nhân Dân Gia Định - BV mắt Điện Biên Phủ, Ban Từ Thiện Chùa Vĩnh Xương xin đa tạ và ghi nhớ sự nhiệt tâm đóng góp của quý vị dể cho bếp ăn được phục vụ xuyên.",
+    "Address": "179 Trần Văn Đang, phường 11, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 139,
+    "Name": "Bếp cơm từ thiện Thiện Tâm (quận 3)",
+    "Phone": null,
+    "Website": null,
+    "Description": "12/09/2013:&nbsp;10g30, khoảng không gian râm mát bên hông ngôi chùa Khmer Chăntarăngsây (đường Hoàng Sa, thuộc P.7, Q.3, TP.HCM) xuất hiện một dãy xe đạp cũ kỹ, thêm cả những người ngồi xe lắc, chống nạng đến ngồi nghỉ, đợi bữa ăn trưa.Một tấm biển màu vàng ...",
+    "Address": "Hoàng Sa, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 140,
+    "Name": "CLB Trẻ Em Ga Sài Gòn",
+    "Phone": null,
+    "Website": null,
+    "Description": "16/99 - 16/101 Kỳ Đồng, phường 9, quận 3, TP HCM, Việt Nam",
+    "Address": "16/99 - 16/101 Kỳ Đồng, phường 9, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 141,
+    "Name": "Cơ sở bảo trợ xã hội Thảo Đàn",
+    "Phone": null,
+    "Website": "www.thaodan.org.vn",
+    "Description": "Thảo Đàn là một tổ chức xã hội hoạt động với mục đích hỗ trợ chăm sóc, bảo vệ trẻ em đường phố và trẻ em có hoàn cảnh đặc biệt, bằng cách tạo các điều kiện, cơ hội cho trẻ tái hội nhập gia đình, xã hội, thúc đẩy việc tôn trọng và thực hiện các quyền trẻ e ...",
+    "Address": "451/1 Hai Ba Trưng, phường 8, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 142,
+    "Name": "Dự án Chữ Thập Đỏ Quốc tế - ICRC-SFD (International Com...",
+    "Phone": null,
+    "Website": "www.icrc.org/eng/where-we-work/asia-pacific/thailand/index.j...",
+    "Description": "ICRC Special Fund for the Disabled (SFD).Đơn xin Chân giả - cho 12 tỉnh thành - của Dự án ICRC (Chữ Thập Đỏ Quốc tế)DỰ ÁN HỌP TÁC GIỮA BỘ LAO ĐỘNG-THƯƠNG BINH VÀ XÃ HỘI, HỘI CHỮ THÂP ĐỎ VIỆT NAM&nbsp;VÀ QUỸ ĐẶC BIỆT CỦA ỦY BAN CHỮ THẬP ĐỎ QUỐC TẾ VÌ NGƯỜI ...",
+    "Address": "70 Bà huyện Thanh Quan, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 143,
+    "Name": "Dự án Tương Lai",
+    "Phone": null,
+    "Website": null,
+    "Description": "Dự án này nhằm góp phần bảo vệ, chăm sóc và giáo dục trẻ em và thanh thiếu niên đường phố hoặc có nguy cơ rơi vào hoàn cảnh đường phố thông qua việc cung cấp các dịch vụ xã hội thích hợp và có chất lượng, giúp các em có cơ hội thay đổi cuộc sống.Dự án ...",
+    "Address": "280/10 Cách mạng Tháng 8, phường 10, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 144,
+    "Name": "Gia đình Tình thương Tê - Phan",
+    "Phone": "0918 874 956",
+    "Website": null,
+    "Description": "Nuôi dưỡng các trẻ em khuyết tật rẻ em mồ côi, người già không thân nhân.Do Tu sĩ Hoàng Văn Bình phụ trách. Di động: 0918 874 956.Tôi gọi ngôi nhà nhỏ nằm sâu trong con hẻm khuất trên đường Nguyễn Kiệm Phú nhuận là máng cỏ Hồng. Bởi ở đó, những c ...",
+    "Address": "359/ 51F Lê Văn Sĩ, phường 12, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 145,
+    "Name": "Hiệp Hội Bảo trợ Trẻ em Christina Noble - Christina Nob...",
+    "Phone": null,
+    "Website": "www.cncf.org/vietnam.html",
+    "Description": "An International Partnership of people dedicated to serving underprivileged children with the hope of helping each child maximize their life&nbsp;potential.Our programs in Vietnam and Mongolia seek to protect children at risk of economic&nbsp;and sexual exploitatio ...",
+    "Address": "38 Tú Xương, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 146,
+    "Name": "Hội Trợ Giúp Người Tàn Tật Việt Nam - Vietnam Assistanc...",
+    "Phone": null,
+    "Website": "vnah-hev.org",
+    "Description": "VNAH works to promote policies and programs to assist and empower people with disabilities and disadvantaged children.Vietnam Assistance for the Handicapped (VNAH) is a U.S.-based non-profit, non-political, tax-exempt charitable organization founded in ...",
+    "Address": "70 Bà huyện Thanh Quan, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 147,
+    "Name": "Hội Từ Thiện Trẻ Em Sài Gòn - Saigon Children's Charity...",
+    "Phone": null,
+    "Website": "www.saigonchildren.com",
+    "Description": "được thành lập năm 1992 nhằm giúp trẻ em Việt Nam có hoàn cảnh khó khăn được tiếp cận giáo dục và có sự khởi đầu tốt hơn trong cuộc sống. saigonchildren chỉ hoạt động tại Việt Nam và mọi hoạt động của tổ chức gắn liền với cam kết hỗ trợ trẻ em vượt qua nh ...",
+    "Address": "59 Trần Quốc Thảo, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 148,
+    "Name": "Mái Ấm Ánh Sáng",
+    "Phone": null,
+    "Website": null,
+    "Description": "80/ 76 Trần Quang Diệu, phường14, quận 3, TP HCM, Việt Nam",
+    "Address": "80/ 76 Trần Quang Diệu, phường14, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 149,
+    "Name": "Mai Tam House of Hope",
+    "Phone": "0908 603 503",
+    "Website": "www.maitamhouseofhope.com",
+    "Description": "To provide necessary medicines and food within a controlled environment to a targeted group of HIV positive children and mothers in order to ensure a quality of life consistent with their healthy peers and surroundings; the first priority is to the childr ...",
+    "Address": "180 Nguyễn Đình Chiểu, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 150,
+    "Name": "Nhóm Nụ Cười - Bạn của Thầy Hùng",
+    "Phone": "0772 650 038",
+    "Website": "www.smilegroupvn.org",
+    "Description": "I- Lịch sử ra đời:NHÓM NỤ CƯỜI (The SMILE GROUP) được thành lập năm 2004 bởi anh Nguyễn Văn Hùng. Anh Hùng lớn lên trong lòng thành phố Sài Gòn vào những năm tháng chiến tranh liên miên. Năm 16 tuổi, anh nghiện ma túy, và phải mất đến 20 năm, cuộc đời của ...",
+    "Address": "451/1 Hai Bà Trưng, phường 8, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 151,
+    "Name": "Nhóm Nụ Cười - Bạn của Thầy Hùng - Give Live a Chance",
+    "Phone": null,
+    "Website": "www.smilegroupvn.org",
+    "Description": "Nhóm Nụ Cười - Bạn của Thầy Hùng là một tổ chức từ thiện độc lập, liên kết với Nhóm THẢO ĐÀN tại địa bàn quận Phú nhuận. Cơ sở của chúng tôi tọa lạc tại văn phòng của Thảo Đàn và sử dụng cơ sở vật chất tại đây phục vụ cho các hoạt động của nhóm. Nhóm Nụ c ...",
+    "Address": "77/17 Huỳnh Tịnh Của, phường 8, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 152,
+    "Name": "Phòng khám Tam Tông Miếu",
+    "Phone": null,
+    "Website": null,
+    "Description": "2014: Thời gian làm việc: Thứ 2 – 6, từ 14h – 16h. Riêng thứ 2, thứ 3 khám nguyên ngày.",
+    "Address": "82 Cao Thắng, phường 4, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 153,
+    "Name": "Quỹ Sống",
+    "Phone": "0914 191 513",
+    "Website": "song.org.vn",
+    "Description": "Quỹ Sống tin rằng sự bền vững sẽ giúp mọi người có cuộc sống tốt đẹp hơn, và rằng Bền vững cần được thực hiện bằng sự Chung tay đồng hành của cả cộng đồng.Sứ mệnh của chúng tôi là xây dựng một hệ sinh thái mà ở đó có sự kết hợp giữa ba tiêu chí bền vững ...",
+    "Address": "Lầu 6, số 67 Lý Chính Thắng, phường 8, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 154,
+    "Name": "Quỹ Từ thiện VinaGame  - VinaGame Foundation",
+    "Phone": null,
+    "Website": "www.vinagame.com.vn/vng/tintuc/chitiet.73.1.hangngay.html",
+    "Description": "Tổ chức các hoạt động chăm lo, hỗ trợ cho các trẻ em khuyết tật, trẻ em có hoàn cảnh khó khăn; tổ chức các hoạt động từ thiện.",
+    "Address": "459B Nguyễn Đình Chiểu, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 155,
+    "Name": "Tổ chức phẫu thuật Nụ Cười (Operation Smile)",
+    "Phone": "090 488 5555",
+    "Website": "operationsmile.org.vn",
+    "Description": "Tại Operation Smile, chúng tôi khát vọng về một tương lai nơi mà sức khỏe và quyền lợi bệnh nhân được cải thiện thông qua dịch vụ phẫu thuật an toàn.Phẫu thuật an toàn nghĩa là mang đến cho bệnh nhân chất lượng chăm sóc tốt nhất dựa trên những tiêu chuẩ ...",
+    "Address": "Tầng 4, tòa nhà GIC Tower, 326 Cách Mạng Tháng 8, phường 10, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 156,
+    "Name": "Trung Tâm Bảo Trợ Dạy Nghề - Tạo Việc Làm cho Người Tàn...",
+    "Phone": null,
+    "Website": "www.ttbtntt.com.vn",
+    "Description": "215 Võ Thị Sáu, phường 7, quận 3, TP HCM, Việt Nam",
+    "Address": "215 Võ Thị Sáu, phường 7, quận 3, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 3"
+  },
+  {
+    "Id": 157,
+    "Name": "Cơm thiện nguyện - Hội Từ thiện Tường Nguyên",
+    "Phone": null,
+    "Website": null,
+    "Description": "06/07/2021&nbsp;Những suất cơm nghĩa tình làm ấm bụng người nghèo thời điểm dịch. Ảnh: HCDịch COVID-19 đang diễn biến phức tạp ở TPHCM, càng làm cho những người nghèo bị ảnh hưởng, mất thu nhập gặp khó khăn hơn trong việc lo từng bữa ăn. ...",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 158,
+    "Name": "Hội Huynh Đệ Việt Nam thuộc trung tâm Bảo Trợ Trẻ em TP...",
+    "Phone": null,
+    "Website": null,
+    "Description": "Tên cũ: Trung Tâm Bảo Trợ Trẻ Em Mồ Côi &amp; Bụi Ðời Khánh Hội (CEPORER).",
+    "Address": "209/77B Tôn Thất Thuyết, phường 3, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 159,
+    "Name": "Hội TTMP Tường Nguyên",
+    "Phone": null,
+    "Website": "www.facebook.com/Hoituthien.MinhPhuGiacNguyen/",
+    "Description": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 160,
+    "Name": "Hội từ thiện Tường Nguyên thiền tự nhỏ ở quận 4 với 6.0...",
+    "Phone": "0908 085 828",
+    "Website": "www.facebook.com/HoiTuThienTuongNguyen/",
+    "Description": "06/07/2021TTO - Cô bán vé số, chú xe ôm... mở hộp, từng phần cơm hiện ra, đẹp đẽ như cơm nhà hàng. Từ 3h sáng đến tận 23h khuya, Bếp ăn từ thiện của Tường Nguyên thiền tự ở quận 4 tất bật những tấm lòng từ bi...&nbsp;&nbsp;Những suất cơm được ...",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 161,
+    "Name": "Hưng Hội Tự (quận 4)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "321 Đoàn Văn Bơ, phường 13, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 162,
+    "Name": "Mái Ấm Bình Minh",
+    "Phone": null,
+    "Website": null,
+    "Description": "108 đường số 6, phường 4, quận 4, TP HCM, Việt Nam",
+    "Address": "108 đường số 6, phường 4, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 163,
+    "Name": "Phòng khám Nhân đạo - chùa Linh Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "40/60 Nguyễn Khoái, phường 12, quận 4, TP HCM, Việt Nam",
+    "Address": "40/60 Nguyễn Khoái, phường 12, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 164,
+    "Name": "Phòng thuốc Nam Phước Thiện Khánh Hội",
+    "Phone": null,
+    "Website": null,
+    "Description": "khám bệnh và phát thuốc miễn phí cho người nghèo.2014: Thời gian làm việc: Khám bệnh vào các buổi sáng trong tuần, chủ nhật nghỉ.",
+    "Address": "321 Đoàn Văn Bơ, phường 13, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 165,
+    "Name": "Quán cơm xã hội Nụ Cười 4 (quân 4)",
+    "Phone": "037 239 456",
+    "Website": null,
+    "Description": "Quán Nụ Cười 4 là quán ăn giá rẻ thứ 4 trong dự án trợ giúp suất ăn giá rẻ của Quỹ từ thiện Tình Thương, quán bắt đầu bán từ ngày 9/9/2013. Hiện nay quán phục vụ khoảng 500 suất cơm/1 ngày, vào các buổi trưa thứ 3, 5, 7 trong tuần.&nbsp;Quán cũng có quầy bán s ...",
+    "Address": "132 Bến Vân Đồn, phường 6 (gần dưới cầu Ông Lãnh), quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 166,
+    "Name": "Trung Tâm Bảo Trợ Khuyết Tật - Disable Sponsoring Cente...",
+    "Phone": null,
+    "Website": null,
+    "Description": "91 Nguyễn Khoái, phường 1, quận 4, TP HCM, Việt Nam",
+    "Address": "91 Nguyễn Khoái, phường 1, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 167,
+    "Name": "Trường Vừa Học Vừa Làm 1/6 - 1st June vocational school",
+    "Phone": null,
+    "Website": null,
+    "Description": "107 Tôn Thất Thuyết, phường 15, quận 4, TP HCM, Việt Nam",
+    "Address": "107 Tôn Thất Thuyết, phường 15, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 168,
+    "Name": "Bếp ăn Thánh Thất Chợ Lớn",
+    "Phone": null,
+    "Website": null,
+    "Description": "Xuất phát từ lời giáo hóa của Đức Huỳnh Giáo Chủ&nbsp;về “ân đồng bào nhân loại” nên những bếp ăn từ thiện của khối tín đồ Phật giáo Hòa Hảo hiện diện ở nhiều tỉnh thành khắp Việt Nam . Đối với một bệnh nhân nghèo thì một bữa cơm từ thiện mang một ý nghĩa quan ...",
+    "Address": "478/32 Hòa Hảo, phường 5, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 169,
+    "Name": "Bếp ăn từ thiện - Niệm Phật Đường Phước Huệ",
+    "Phone": null,
+    "Website": null,
+    "Description": "207/12 Trần Bình Trọng, phường 3, quận 5, TP HCM, Việt Nam",
+    "Address": "207/12 Trần Bình Trọng, phường 3, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 170,
+    "Name": "Bếp cơm từ thiện - chùa Vạn Thiện",
+    "Phone": null,
+    "Website": null,
+    "Description": "28/03/2009: Sài Gòn buổi sáng ồn ào tấp nập, đông đúc từng dòng người từ các ngõ, hẽm đổ ra đường để về cơ quan làm việc, hòa cùng không khí ấy lại có những con người với chiếc áo lam âm thầm rẽ về phía con hẽm nhỏ vốn đã yên lặng từ lâu. Tính hiếu kỳ, tò ...",
+    "Address": "144/63 Trần Phú, phường 4, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 171,
+    "Name": "Chi hội từ thiện Chung Một Tấm Lòng",
+    "Phone": "0907 999 237",
+    "Website": "nhungtraitim.wordpress.com",
+    "Description": "trực thuộc chi hội Chữ Thập Đỏ - F14 - Q5 - TP HCM. Chi hội trưởng Lê Minh Hùng (ĐT 0907 999 237).Chúng tôi thường xuyên thực hiện những chuyến đi khám bệnh, phát thuốc và tặng quà miễn phí cho đồng bào nghèo ở vùng sâu - vùng xa - vùng cao nguyên - đồn ...",
+    "Address": "30 Phú Giáo, phường 14, Quận 5, Hồ Chí Minh (Sài Gòn), Việt Nam",
+    "Province": null,
+    "District": "Quận 5"
+  },
+  {
+    "Id": 172,
+    "Name": "Hội Bảo Trợ Giáo Dục Hoa Văn",
+    "Phone": null,
+    "Website": null,
+    "Description": "66 Hải Thượng Lãn Ông, phường 10, quận 5, TP HCM, Việt Nam",
+    "Address": "66 Hải Thượng Lãn Ông, phường 10, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 173,
+    "Name": "Hội Người Mù quận 5",
+    "Phone": null,
+    "Website": null,
+    "Description": "84 Ngô Quyền, phường 7, quận 5, TP HCM, Việt Nam",
+    "Address": "84 Ngô Quyền, phường 7, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 174,
+    "Name": "Người Tôi Cưu Mang - Quán cơm 2000 đồng tại Sài Gòn",
+    "Phone": "0916 092 600",
+    "Website": "nguoitoicuumang.com/index.php?topic=330.840",
+    "Description": "- Ngày thành lập: 05/9/2009- Địa chỉ: 14/1 Đường Ngô Quyền, Phường 5, Quận 10, TP Hồ Chí Minh- Hoạt động vào trưa các ngày thứ 3, 5, 7 trong tuần.- Phụ trách: Nguyễn Hồng Ánh - 0916 092 600",
+    "Address": "14/1 Ngô Quyền, phường 5, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 175,
+    "Name": "Nhóm Người Đồng Hành",
+    "Phone": null,
+    "Website": null,
+    "Description": "Được thành lập trên công tác tự nguyện của các thành viên, nhóm từ thiện Người đồng hành thực hiện các công tác nhân đạo xã hội như: đào tạo dạy nghề cho trẻ em đường phố, trẻ tàn tật, trẻ mồ côi và thực hiện các công tác xã hội khác.",
+    "Address": "27 Nguyễn Ngọc Thạch, phường 4, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 176,
+    "Name": "Phòng khám Nhân đạo nhà thờ Cha Tam",
+    "Phone": null,
+    "Website": null,
+    "Description": "Thời gian làm việc: Thứ 2, 4, 6, từ 8h – 10h (chỉ khám cho giáo dân ở P.13, P.14, P.15 quận 5)",
+    "Address": "25 Học Lạc, phường 14, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 177,
+    "Name": "Trường Chuyên Biệt Tương Lai - Điểm 1 (quận 5)",
+    "Phone": null,
+    "Website": "www.khuyettattuonglai.edu.vn",
+    "Description": "Điểm 1: 27 - 29 Ngô Quyền P.10 Q.5 (văn phòng nhà trường và bộ phận cấp dưỡng). Trường Chuyên Biệt Tương Lai Quận 5 được thành lập theo quyết định số 137/QĐ-BM ngày 18 tháng 8 năm 1988 của UBND Quận 5 với chức năng, nhiệm vụ: Chăm sóc và giáo dục văn hóa ...",
+    "Address": "27-29 Ngô Quyền, phường 10, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 178,
+    "Name": "Trường Chuyên Biệt Tương Lai - Điểm 2 (quận 5)",
+    "Phone": null,
+    "Website": "www.khuyettattuonglai.edu.vn",
+    "Description": "Điểm 1: 27 - 29 Ngô Quyền P.10 Q.5 (văn phòng nhà trường và bộ phận cấp dưỡng). Trường Chuyên Biệt Tương Lai Quận 5 được thành lập theo quyết định số 137/QĐ-BM ngày 18 tháng 8 năm 1988 của UBND Quận 5 với chức năng, nhiệm vụ: Chăm sóc và giáo dục văn hóa ...",
+    "Address": "28 Trần Xuân Hòa, phường 7, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 179,
+    "Name": "Trường Chuyên Biệt Tương Lai - Điểm 3 (quận 5)",
+    "Phone": null,
+    "Website": "www.khuyettattuonglai.edu.vn",
+    "Description": "Điểm 1: 27 - 29 Ngô Quyền P.10 Q.5 (văn phòng nhà trường và bộ phận cấp dưỡng). Trường Chuyên Biệt Tương Lai Quận 5 được thành lập theo quyết định số 137/QĐ-BM ngày 18 tháng 8 năm 1988 của UBND Quận 5 với chức năng, nhiệm vụ: Chăm sóc và giáo dục văn hóa ...",
+    "Address": "49 Trần Xuân Hòa, phường 7, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 180,
+    "Name": "Trường Chuyên Biệt Tương Lai - Điểm 4 (quận 5)",
+    "Phone": null,
+    "Website": "www.khuyettattuonglai.edu.vn",
+    "Description": "Điểm 1: 27 - 29 Ngô Quyền P.10 Q.5 (văn phòng nhà trường và bộ phận cấp dưỡng). Trường Chuyên Biệt Tương Lai Quận 5 được thành lập theo quyết định số 137/QĐ-BM ngày 18 tháng 8 năm 1988 của UBND Quận 5 với chức năng, nhiệm vụ: Chăm sóc và giáo dục văn hóa ...",
+    "Address": "35 Ngô Quyền, phường 10, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 181,
+    "Name": "Từ Thiện Phước Điền",
+    "Phone": "0903 800 370",
+    "Website": "www.tuthienphuocdien.org",
+    "Description": "Được thành lập bởi một số doanh nhân và các nhà hảo tâm, với ước mong hổ trợ một phần nào đó cho các gia đình, cá nhân khó khăn trong xã hội, các hoàn cảnh neo đơn, đồng bào bị thiên tai bão lụt, nâng đỡ các em học sinh nghèo hiếu học, khám bệnh từ thiện, ...",
+    "Address": "21 Hùng Vương, phường 4, quận 5, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 5"
+  },
+  {
+    "Id": 182,
+    "Name": "Cơm thiện nguyện - Hội Từ thiện Tường Nguyên",
+    "Phone": null,
+    "Website": null,
+    "Description": "06/07/2021&nbsp;Những suất cơm nghĩa tình làm ấm bụng người nghèo thời điểm dịch. Ảnh: HCDịch COVID-19 đang diễn biến phức tạp ở TPHCM, càng làm cho những người nghèo bị ảnh hưởng, mất thu nhập gặp khó khăn hơn trong việc lo từng bữa ăn. ...",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 183,
+    "Name": "Hội Huynh Đệ Việt Nam thuộc trung tâm Bảo Trợ Trẻ em TP...",
+    "Phone": null,
+    "Website": null,
+    "Description": "Tên cũ: Trung Tâm Bảo Trợ Trẻ Em Mồ Côi &amp; Bụi Ðời Khánh Hội (CEPORER).",
+    "Address": "209/77B Tôn Thất Thuyết, phường 3, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 184,
+    "Name": "Hội TTMP Tường Nguyên",
+    "Phone": null,
+    "Website": "www.facebook.com/Hoituthien.MinhPhuGiacNguyen/",
+    "Description": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 185,
+    "Name": "Hội từ thiện Tường Nguyên thiền tự nhỏ ở quận 4 với 6.0...",
+    "Phone": "0908 085 828",
+    "Website": "www.facebook.com/HoiTuThienTuongNguyen/",
+    "Description": "06/07/2021TTO - Cô bán vé số, chú xe ôm... mở hộp, từng phần cơm hiện ra, đẹp đẽ như cơm nhà hàng. Từ 3h sáng đến tận 23h khuya, Bếp ăn từ thiện của Tường Nguyên thiền tự ở quận 4 tất bật những tấm lòng từ bi...&nbsp;&nbsp;Những suất cơm được ...",
+    "Address": "243A/46/9 Hoàng Diệu, phường 8, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 186,
+    "Name": "Hưng Hội Tự (quận 4)",
+    "Phone": null,
+    "Website": "tinhdocusiphathoi.vn/danh-ba-lien-he-hoi-quan",
+    "Description": "Hoạt động phước thiện để giúp đỡ người nghèo khó. Với hoạt động Phật pháp gắn với từ thiện nhơn đạo, giúp đỡ người nghèo bệnh tật bằng thuốc Nam.Năm 2021 Tịnh Độ Cư Sĩ Phật Hội Việt Nam có 219 hội quán, mỗi hội quán đều có Phòng Thuốc Nam phước thiện, h ...",
+    "Address": "321 Đoàn Văn Bơ, phường 13, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 187,
+    "Name": "Mái Ấm Bình Minh",
+    "Phone": null,
+    "Website": null,
+    "Description": "108 đường số 6, phường 4, quận 4, TP HCM, Việt Nam",
+    "Address": "108 đường số 6, phường 4, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 188,
+    "Name": "Phòng khám Nhân đạo - chùa Linh Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "40/60 Nguyễn Khoái, phường 12, quận 4, TP HCM, Việt Nam",
+    "Address": "40/60 Nguyễn Khoái, phường 12, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 189,
+    "Name": "Phòng thuốc Nam Phước Thiện Khánh Hội",
+    "Phone": null,
+    "Website": null,
+    "Description": "khám bệnh và phát thuốc miễn phí cho người nghèo.2014: Thời gian làm việc: Khám bệnh vào các buổi sáng trong tuần, chủ nhật nghỉ.",
+    "Address": "321 Đoàn Văn Bơ, phường 13, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 190,
+    "Name": "Quán cơm xã hội Nụ Cười 4 (quân 4)",
+    "Phone": "037 239 456",
+    "Website": null,
+    "Description": "Quán Nụ Cười 4 là quán ăn giá rẻ thứ 4 trong dự án trợ giúp suất ăn giá rẻ của Quỹ từ thiện Tình Thương, quán bắt đầu bán từ ngày 9/9/2013. Hiện nay quán phục vụ khoảng 500 suất cơm/1 ngày, vào các buổi trưa thứ 3, 5, 7 trong tuần.&nbsp;Quán cũng có quầy bán s ...",
+    "Address": "132 Bến Vân Đồn, phường 6 (gần dưới cầu Ông Lãnh), quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 191,
+    "Name": "Trung Tâm Bảo Trợ Khuyết Tật - Disable Sponsoring Cente...",
+    "Phone": null,
+    "Website": null,
+    "Description": "91 Nguyễn Khoái, phường 1, quận 4, TP HCM, Việt Nam",
+    "Address": "91 Nguyễn Khoái, phường 1, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 192,
+    "Name": "Trường Vừa Học Vừa Làm 1/6 - 1st June vocational school",
+    "Phone": null,
+    "Website": null,
+    "Description": "107 Tôn Thất Thuyết, phường 15, quận 4, TP HCM, Việt Nam",
+    "Address": "107 Tôn Thất Thuyết, phường 15, quận 4, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 4"
+  },
+  {
+    "Id": 193,
+    "Name": "Hội Người Mù quận 7",
+    "Phone": null,
+    "Website": null,
+    "Description": "46KE Huỳnh Tấn Phát, phường Tân Thuận Tây, quận 7, TP HCM, Việt Nam",
+    "Address": "46KE Huỳnh Tấn Phát, phường Tân Thuận Tây, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 194,
+    "Name": "Mái Ấm Hoa Hồng Nhỏ",
+    "Phone": null,
+    "Website": "littleroseshelter.weebly.com",
+    "Description": "30/31 Lâm Văn Bền, phường Tân Kiếng, quận 7, TP HCM, Việt Nam",
+    "Address": "30/31 Lâm Văn Bền, phường Tân Kiếng, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 195,
+    "Name": "Quán cơm xã hội Nụ Cười 3 (quận 7)",
+    "Phone": "0919 690 706",
+    "Website": null,
+    "Description": "Quán cơm xã hội Nụ Cười 3 có mặt bằng rất thoáng đãng và rộng rãi tại quận 7, TP.HCM do ngân hàng Eximbank tài trợ. Quán Nụ Cười 3 chính thức đi vào hoạt động từ ngày 11/5/2013. Quán mở cửa phục vụ vào các buổi trưa 2 - 4 - 6 trong tuần, bán khoảng 400 su ...",
+    "Address": "1276 Huỳnh Tấn Phát, phường Phú Mỹ, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 196,
+    "Name": "Quỹ Hổ Trợ Cộng Đồng Lawrence Sting",
+    "Phone": null,
+    "Website": "www.lawrencestingfund.org",
+    "Description": "Contribute towards a harmonious society. Lawrence S. Ting Foundation (LSTF) was established in 2005 as a local NGO in Vietnam.We mainly provide our services and support in the education and health sectors to people in need nationwide.This work has bee ...",
+    "Address": "Tầng 4, tòa nhà Crescent Plaza, 105 đường Tôn Dật Tiên, phường Tân Phú, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 197,
+    "Name": "Quỹ từ thiện Nâng bước Tuổi Thơ",
+    "Phone": null,
+    "Website": "www.children-of-vietnam.org",
+    "Description": "Sứ mệnh“Quỹ Nâng Bước Tuổi Thơ giúp trẻ em Việt Nam có hoàn cảnh khó khăn được điều trị y tế nhằm vượt qua những khiếm khuyết của cơ thể, được có cơ hội phát triển hết tiềm năng của mình cho một cuộc sống mới tốt đẹp hơn”Phương châm hoạt độngQuỹ N ...",
+    "Address": "6 Nguyễn Lương Bằng, phường Tân Phú, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 198,
+    "Name": "Trường Nuôi Dạy Trẻ Mồ Côi Long Hoa",
+    "Phone": null,
+    "Website": null,
+    "Description": "1250/ 41 Huỳnh Tấn Phát, phường Phú Mỹ, quận 7, TP HCM, Việt Nam",
+    "Address": "1250/ 41 Huỳnh Tấn Phát, phường Phú Mỹ, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 199,
+    "Name": "Trường Tình Thương Ánh Linh",
+    "Phone": "0972 074.579",
+    "Website": null,
+    "Description": "Là một trường tình thương dành cho trẻ em nghèo đang sống tại Q.4 và Q.7, dạy học bổ túc cho trẻ từ lớp 1 đến lớp 10, đồng thời kết hợp dạy nghề và tạo việt làm.",
+    "Address": "30/36 Lâm Văn Bền, KP4, phường Tân Kiểng, quận 7, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 7"
+  },
+  {
+    "Id": 200,
+    "Name": "Bếp ăn từ thiện - Chùa Lâm Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "Nằm trong một con hẻm nhỏ ở số 301 Bến Bình Đông, phường 14, quận 8, thành phố Hồ Chí Minh, nhà dưỡng lão chùa Lâm Quang vẫn luôn mở rộng tấm lòng để thường xuyên đón nhận chở che những người già neo đơn, cô độc, những số phận cần sự sẻ chia.Năm 199 ...",
+    "Address": "301/117H/ 70 Bến Bình Đông, phường 14, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 201,
+    "Name": "Gia đình Camillo",
+    "Phone": null,
+    "Website": null,
+    "Description": "Gia đình Camillo, P4, Q8, TP HCM, chăm sóc người già neo đơn, con cái bỏ rơi, nghèo khổ, ăn xin, bệnh tật chờ chết không nơi nương tựa ...do cựu cô giáo trường PTTH Hồng Bàng, Lê Thị Kính phụ trách.Qua Bệnh viện quận 8 (đường Cao Lỗ, P4, Q8), vào hẻm ...",
+    "Address": "697/485/60 Cao Lỗ, phường 4, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 202,
+    "Name": "Mái Ấm quận 8",
+    "Phone": null,
+    "Website": null,
+    "Description": "73/10 Dương Bá Trạc, phường 1, quận 8, TP HCM, Việt Nam",
+    "Address": "73/10 Dương Bá Trạc, phường 1, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 203,
+    "Name": "Mái Ấm Thanh Xuân",
+    "Phone": null,
+    "Website": null,
+    "Description": "125/81 Âu Dương Lân, phường 3, quận 8, TP HCM, Việt Nam",
+    "Address": "125/81 Âu Dương Lân, phường 3, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 204,
+    "Name": "Nhà nuôi người già - The elderly keeping house",
+    "Phone": null,
+    "Website": null,
+    "Description": "71 Liên Tỉnh 5, phường 5, quận 8, TP HCM, Việt Nam",
+    "Address": "71 Liên Tỉnh 5, phường 5, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 205,
+    "Name": "Nuôi Dưỡng Người Già Cơ Cực - Chùa Lâm Quang",
+    "Phone": null,
+    "Website": null,
+    "Description": "Nằm trong một con hẻm nhỏ ở số 301 Bến Bình Đông, phường 14, quận 8, thành phố Hồ Chí Minh, nhà dưỡng lão chùa Lâm Quang vẫn luôn mở rộng tấm lòng để thường xuyên đón nhận chở che những người già neo đơn, cô độc, những số phận cần sự sẻ chia.Năm 199 ...",
+    "Address": "301/117H/ 70 Bến Bình Đông, phường 14, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 206,
+    "Name": "Phòng khám Hội Chữ Thập Đỏ quận 8",
+    "Phone": null,
+    "Website": null,
+    "Description": "183 đường số 8, phường 4, quận 8, TP HCM, Việt Nam",
+    "Address": "183 đường số 8, phường 4, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 207,
+    "Name": "Thiện nguyện Xuân Bình",
+    "Phone": "0906 786 669",
+    "Website": "www.facebook.com/thiennguyenxuanbinh/",
+    "Description": "&nbsp;Hội được thành lập vào ngày 01.03.18 bởi nhóm cựu học sinh trường Xuân Bình nhằm thực hiện những hoạt động thiện nguyện giúp đỡ những mãnh đời kém may mắn!",
+    "Address": "297 Bông Sao, phường 5, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 208,
+    "Name": "Trường khuyết Tật Vững Tin",
+    "Phone": null,
+    "Website": null,
+    "Description": "122 Bến Cần Giuộc, phường 11, quận 8, TP HCM, Việt Nam",
+    "Address": "122 Bến Cần Giuộc, phường 11, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 209,
+    "Name": "Từ Thiện Phật Giáo - Chùa Thường Quang",
+    "Phone": null,
+    "Website": "tuthienphatgiao.org",
+    "Description": "Ðể thực hiện phần nào trong tinh thần từ bi ban vui cứu khổ của người con Phật, nhằm góp phần làm giảm bớt nỗi đau thương khốn khổ của người nghèo, người tàn tật, người già, trẻ em mồ côi Ban Từ Thiện Chùa Thường Quang được thành lập vào năm 1986 và đã th ...",
+    "Address": "2A Bến Phú Định, phường 16, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 210,
+    "Name": "Viện dưỡng lão nghệ sĩ",
+    "Phone": null,
+    "Website": null,
+    "Description": "314/65 Âu Dương Lân, phường 3, quận 8, TP HCM, Việt Nam",
+    "Address": "314/65 Âu Dương Lân, phường 3, quận 8, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 8"
+  },
+  {
+    "Id": 211,
+    "Name": "Hội Chữ Thập Đỏ quận 9",
+    "Phone": null,
+    "Website": null,
+    "Description": "Khu phố 2, Lã Xuân Oai, phường Tăng Nhơn Phú A, quận 9, TP HCM, Việt Nam",
+    "Address": "Khu phố 2, Lã Xuân Oai, phường Tăng Nhơn Phú A, quận 9, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 9"
+  },
+  {
+    "Id": 212,
+    "Name": "Hội Người Mù quận 9",
+    "Phone": null,
+    "Website": null,
+    "Description": "67 Khu phố 6, Cầu Xây 2, phường Tân Phú, quận 9, TP HCM, Việt Nam",
+    "Address": "67 Khu phố 6, Cầu Xây 2, phường Tân Phú, quận 9, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 9"
+  },
+  {
+    "Id": 213,
+    "Name": "Nối Vòng Tay Lớn",
+    "Phone": "0382 402 527",
+    "Website": "noivongtaylonworld.multiply.com",
+    "Description": "Hãy yêu thương để được yêu thương Có lúc nào đó giữa đường, bạn chợt dừng xe lại, nắm tay dắt một cụ bà qua đường trong dòng xe hối hả giờ tan ca, lòng thầm hỏi: “Con của bà ở đâu”? Và có lúc nào không, khi bạn dừng lại bên đường, tặng một cụ ông dăm ba c ...",
+    "Address": "Phòng 6B, 11/27 Đình Phong Phú, phường Tăng Nhơn Phúc B, quận 9, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 9"
+  },
+  {
+    "Id": 214,
+    "Name": "US - Vietnam People to People Entre Aid Mission Foundat...",
+    "Phone": null,
+    "Website": "www.usvnp2p.com",
+    "Description": "Our Mission is to provide assistance, support of charitable and humanitarian causes for the people in Indochina Sates (Vietnam-Cambodia and Laos) beginning with the country of Vietnam through three principal activities: Socio-Services, Socio-Economic Deve ...",
+    "Address": "32 Quang Trung, Phường Hiệp Phú, quận 9, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 9"
+  },
+  {
+    "Id": 215,
+    "Name": "Ấm lòng bữa cơm 2.000 đồng",
+    "Phone": null,
+    "Website": null,
+    "Description": "26-07-2015Những bữa cơm 2.000 đồng không chỉ giúp người nghèo tiết kiệm mà còn cảm nhận được sự quan tâm của xã hội, tiếp thêm động lực vươn lên giúp đỡ người khác.Nhiều năm qua, các quán cơm xã hội 2.000 đồng liên tục được thành lập phục vụ n ...",
+    "Address": "số 54/21 đường số 281, phường 15, quận 11, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 11"
+  },
+  {
+    "Id": 216,
+    "Name": "Bếp ăn từ thiện Thiện Tâm (quận 11)",
+    "Phone": "0908 893 719",
+    "Website": null,
+    "Description": "02/12/2011:&nbsp;Được biết, bếp ăn từ thiện Thiện Tâm sẽ phục vụ cơm miễn phí vào các ngày thứ 3, 5, 7 hàng tuần và ngày mùng 1 và 15 âm lịch. Mỗi ngày như thế phục vụ từ 600 đến 800 suất cơm cho người nghèo, bệnh nhân nghèo từ các tỉnh ngoại thành đến điều tr ...",
+    "Address": "151/1F Lạc Long Quân, phường 1, quận 11, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 11"
+  },
+  {
+    "Id": 217,
+    "Name": "Hội Người Mù (quận 11)",
+    "Phone": null,
+    "Website": null,
+    "Description": "186 Lãnh Binh Thăng, phường 13, quận 11, TP HCM, Việt Nam",
+    "Address": "186 Lãnh Binh Thăng, phường 13, quận 11, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 11"
+  },
+  {
+    "Id": 218,
+    "Name": "Trường Dạy Trẻ Em Khuyết Tật quận 11",
+    "Phone": null,
+    "Website": null,
+    "Description": "6/11 đường số 3, Cư xá Lữ Gia, phường 15, quận 11, TP HCM, Việt Nam",
+    "Address": "6/11 đường số 3, Cư xá Lữ Gia, phường 15, quận 11, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 11"
+  },
+  {
+    "Id": 219,
+    "Name": "Từ Thiện Tâm Việt - Đoàn Y Bác Sĩ Tâm Việt",
+    "Phone": null,
+    "Website": "bacsitamviet.com",
+    "Description": "Đoàn Y Bác Sĩ Tâm Việt (Từ Thiện Tâm Việt) được thành lập vào đầu năm 1998, lúc đầu không có tên. Nhóm tập hợp các Bác sĩ, Nha sĩ, Dược sĩ, Điều dưỡng và các tình nguyện viên từ nhiều bệnh viện, hoạt động trung bình mỗi tháng 2 chuyến, từ Miền Trung đến m ...",
+    "Address": "92 Nguyễn Thị Nhỏ, phường 15, quận 11, TP HCM, Việt Nam",
+    "Province": "TP HCM",
+    "District": "quận 11"
+  }
+]
