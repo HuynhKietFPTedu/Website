@@ -49,6 +49,10 @@ class Program
             listingDoc.LoadHtml(listing.OuterHtml);
 
             // Extract thông tin
+
+            var imgNode = listingDoc.DocumentNode.SelectSingleNode("//a/img");
+            string imgSrc = imgNode?.GetAttributeValue("src", "https://www.thegioituthien.com/media/com_mtree/images/noimage_thb.png").Trim();
+
             var nameNode = listingDoc.DocumentNode.SelectSingleNode("//div[@class='header']/h3/a/span");
             string name = nameNode?.InnerText.Trim();
 
@@ -74,6 +78,7 @@ class Program
                 Name = name,
                 Phone = phone,
                 Website = website,
+                Img = imgSrc,
                 Description = description,
                 Address = address,
                 Province = location.Province,

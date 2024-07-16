@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrawlData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2eefd45bbab47a878602af233066449d447cbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bace9babc58479ee6a6c43286b2939a0988502a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrawlData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrawlData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

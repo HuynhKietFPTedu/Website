@@ -39,12 +39,13 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3P0QC8MZV"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-Z3P0QC8MZV');
+    gtag('config', 'G-Z3P0QC8MZV');
 </script>
+
 <body class=" bg-light">
     <div class="container">
 
@@ -63,21 +64,22 @@
 
         <div class="row mt-5">
             <aside class="col-sm-4">
-                <div>
-                    <select class="form-select form-select-sm mb-2" id="city" aria-label=".form-select-sm">
-                        <option value="" selected>Chọn tỉnh thành</option>
-                    </select>
+                <form class="d-flex">
+                    <div>
+                        <select class="form-select form-select-sm mb-2" id="city" aria-label=".form-select-sm">
+                            <option value="" selected>Chọn tỉnh thành</option>
+                        </select>
 
-                    <select class="form-select form-select-sm mb-2" id="district" aria-label=".form-select-sm">
-                        <option value="" selected>Chọn quận huyện</option>
-                    </select>
+                        <select class="form-select form-select-sm mb-2" id="district" aria-label=".form-select-sm">
+                            <option value="" selected>Chọn quận huyện</option>
+                        </select>
+                    </div>
+                    <button class="btn btn-primary align-content-lg-between ms-5" type="submit">Xác nhận</button>
+                </form>
 
-                    <select class="form-select form-select-sm" id="ward" aria-label=".form-select-sm">
-                        <option value="" selected>Chọn phường xã</option>
-                    </select>
-                </div>
             </aside>
-            <article class="col-sm-8">
+            <article class="col-sm-8 list">
+
                 <div class="mb-3 border-1 border p-3 shadow org">
                     <div class="">
                         <h3><a href="" class="text-decoration-none text-success"><span itemprop="name">Làng Trẻ Em SOS
@@ -108,79 +110,22 @@
                         cách tự nhiên nhất có thể.
                     </p>
                 </div>
-                <div class="mb-3 border-1 border p-3 shadow org">
-                    <div class="">
-                        <h3><a href="" class="text-decoration-none text-success"><span itemprop="name">Thiện Duyên Bồ Đề
-                                    Tâm</span></a> </h3>
-                    </div>
-                    <div class="d-flex">
-                        <a href="" class="text-decoration-none text-success">
-                            <img src="https://www.fivebranches.edu/wp-content/uploads/2021/08/default-image.jpg"
-                                class="img-thumbnail icon" alt="">
-                        </a>
-                        <div class="mx-3">
-                            
-                            <p class="m-0">
-                                <a rel="tag" class="text-decoration-none text-success" href="">TP HCM</a>, <a rel="tag"
-                                    class="text-decoration-none text-success" href="">Việt
-                                    Nam
-                                </a>
-                            </p>
-                            <p class="m-0">
-                                <a href="" class="text-decoration-none text-success"
-                                    target="_blank">www.facebook.com/thienduyenbdt/
-                                </a>
-                            </p>
-                        </div>
-                    </div>
-                    <p>
-                        Mang Niềm Tin đến cho Mọi Người.
-                        Hãy nhớ rằng: Trên đời này vẫn còn rất nhiều Tình Yêu Thương và sự Chia Sẽ.
-                    </p>
-                </div>
-                <div class="mb-3 border-1 border p-3 shadow org">
-                    <div class="">
-                        <h3><a href="" class="text-decoration-none text-success"><span itemprop="name">Nhóm từ thiện Hoa
-                                    Hướng Dương</span></a> </h3>
-                    </div>
-                    <div class="d-flex">
-                        <a href="" class="text-decoration-none text-success">
-                            <img src="https://www.thegioituthien.com/media/com_mtree/images/listings/s/561.png"
-                                class="img-thumbnail icon" alt="">
-                        </a>
-                        <div class="mx-3">
-                            <p class="m-0">
-                                <a rel="tag" class="text-decoration-none text-success" href="">TP HCM</a>, <a rel="tag"
-                                    class="text-decoration-none text-success" href="">Việt Nam
-                                </a>
-                            </p>
 
-                            <p class="m-0">
-                                <a href="" class="text-decoration-none text-success" target="_blank">
-                                    www.facebook.com/nhomtuthienHoaHuongDuong
-                                </a>
-                            </p>
-                        </div>
-                    </div>
-                    <p>
-                        Là nhóm từ thiện được thành lập nhẳm giúp đỡ bệnh nhân nghèo, người già neo đơn, trẻ em khuyết
-                        tật,hoc sinh nghèo vượt khó...
-                    </p>
-                </div>
             </article>
 
+            <div id="records" class="container mt-4"></div>
 
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
             <script>
                 var citis = document.getElementById("city");
                 var districts = document.getElementById("district");
-                var wards = document.getElementById("ward");
                 var Parameter = {
                     url: "https://raw.githubusercontent.com/kenzouno1/DiaGioiHanhChinhVN/master/data.json",
                     method: "GET",
                     responseType: "application/json",
                 };
+
                 var promise = axios(Parameter);
                 promise.then(function (result) {
                     renderCity(result.data);
@@ -192,28 +137,89 @@
                     }
                     citis.onchange = function () {
                         district.length = 1;
-                        ward.length = 1;
                         if (this.value != "") {
                             const result = data.filter(n => n.Id === this.value);
-
                             for (const k of result[0].Districts) {
                                 district.options[district.options.length] = new Option(k.Name, k.Id);
                             }
                         }
                     };
-                    district.onchange = function () {
-                        ward.length = 1;
-                        const dataCity = data.filter((n) => n.Id === citis.value);
-                        if (this.value != "") {
-                            const dataWards = dataCity[0].Districts.filter(n => n.Id === this.value)[0].Wards;
-
-                            for (const w of dataWards) {
-                                wards.options[wards.options.length] = new Option(w.Name, w.Id);
-                            }
-                        }
-                    };
                 }
+
             </script>
+
+
+            <script>
+
+                const jsonFilePath = 'https://raw.githubusercontent.com/HKiet-dev/Website/main/CrawlData/Data/data.json';
+
+                axios.get(jsonFilePath)
+                    .then(response => {
+                        const data = response.data;
+                        console.log(data);
+                        // Process JSON data here
+
+
+
+
+                        const recordsData = [
+                            {
+                                name: "Làng Trẻ Em SOS (TP HCM)",
+                                location: "TP HCM, Việt Nam",
+                                website: "www.facebook.com/thienduyenbdt/",
+                                description: "Là một tổ chức hoạt động giúp đỡ trẻ em có hoàn cảnh khó khăn có được một mái ấm gia đình.",
+                                image: "https://www.thegioituthien.com/media/com_mtree/images/listings/s/366.gif"
+                            },
+                            // Thêm các record khác ở đây
+                        ];
+
+                        function renderRecords(data) {
+                            const recordsContainer = document.getElementById("records");
+
+                            data.forEach(record => {
+                                const recordElement = `
+            <div class="mb-3 border-1 border p-3 shadow org">
+                <div class="">
+                    <h3><a href="#" class="text-decoration-none text-success"><span itemprop="name">${record.Name}</span></a></h3>
+                </div>
+                <div class="d-flex">
+                    <a href="#" class="text-decoration-none text-success">
+                        <img src="${record.image}" class="img-thumbnail icon" alt="">
+                    </a>
+                    <div class="mx-3">
+                        <p class="m-0">
+                            <a rel="tag" class="text-decoration-none text-success" href="#">${record.Address}</a>
+                        </p>
+                        <p class="m-0">
+                            <a href="#" class="text-decoration-none text-success" target="_blank">${record.Website}</a>
+                        </p>
+                    </div>
+                </div>
+                <p class="text-truncate text-nowrap" style="max-width: 100%;">
+                    ${record.Description}
+                </p>
+            </div>
+        `;
+                                recordsContainer.innerHTML += recordElement;
+                            });
+                        }
+
+                        // Gọi hàm để render các record
+                        renderRecords(data);
+
+
+
+
+
+                    })
+                    .catch(error => {
+                        console.error('There has been a problem with your axios operation:', error);
+                    });
+
+
+
+            </script>
+
         </div>
     </div>
 
