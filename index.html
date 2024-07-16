@@ -56,7 +56,8 @@
         <div class="d-flex justify-content-between align-items-center ">
             <div class="text-start ps-3">
                 <h2>Ánh sáng cuối con đường</h2>
-                <p class="text-muted">Thông tin về từ thiện, các tổ chức từ thiện uy tín</p>
+                <p class="text-muted">Thông tin về từ thiện, các tổ chức từ thiện uy tín tại thành phố Hồ Chí Minh</p>
+                
             </div>
             <img src="https://www.championgroup.co.uk/wp-content/uploads/2021/03/Charity.jpg"
                 style="object-fit: cover; width: 700px;" alt="">
@@ -80,37 +81,8 @@
             </aside>
             <article class="col-sm-8 list">
 
-                <div class="mb-3 border-1 border p-3 shadow org">
-                    <div class="">
-                        <h3><a href="" class="text-decoration-none text-success"><span itemprop="name">Làng Trẻ Em SOS
-                                    (TP HCM)</span></a> </h3>
-                    </div>
-                    <div class="d-flex">
-                        <a href="" class="text-decoration-none text-success">
-                            <img src="https://www.thegioituthien.com/media/com_mtree/images/listings/s/366.gif"
-                                class="img-thumbnail icon" alt="">
-                        </a>
-                        <div class="mx-3">
-                            <p class="m-0">
-                                <a rel="tag" class="text-decoration-none text-success" href="">TP HCM</a>, <a rel="tag"
-                                    class="text-decoration-none text-success" href="">Việt
-                                    Nam
-                                </a>
-                            </p>
-                            <p class="m-0">
-                                <a href="" class="text-decoration-none text-success"
-                                    target="_blank">www.facebook.com/thienduyenbdt/
-                                </a>
-                            </p>
-                        </div>
-                    </div>
-                    <p class="text-truncate text-nowrap" style="max-width: 100%;">
-                        Là một tổ chức hoạt động giúp đỡ trẻ em có hoàn cảnh khó khăn có được một mái ấm gia đình. Chúng
-                        tôi giúp trẻ thiếu sự chăm sóc của cha mẹ được sống trong một gia đình mới và phát triển một
-                        cách tự nhiên nhất có thể.
-                    </p>
-                </div>
-
+                <div id="records"></div>
+              
             </article>
 
             <div id="records" class="container mt-4"></div>
@@ -137,6 +109,7 @@
 
                 function renderCity(data) {
                     for (const x of data) {
+                       
                         citis.options[citis.options.length] = new Option(x.Name, x.Id);
                     }
                     citis.onchange = function () {
@@ -144,6 +117,8 @@
                         if (this.value != "") {
                             const result = data.filter(n => n.Id === this.value);
                             for (const k of result[0].Districts) {
+                                if(k.Name == "Quận Thủ Đức")
+                                k.Name = "TP Thủ Đức";
                                 districts.options[districts.options.length] = new Option(k.Name, k.Id);
                             }
                         }
@@ -162,13 +137,14 @@
                             const recordsContainer = document.getElementById("records");
                             recordsContainer.innerHTML = "";
                             data.forEach(record => {
+                                var linkWebsite = record.Website==null?'#':'https://' + record.Website;
                                 const recordElement = `
                     <div class="mb-3 border-1 border p-3 shadow org">
                         <div class="">
-                            <h3><a href="#" class="text-decoration-none text-success"><span itemprop="name">${record.Name}</span></a></h3>
+                            <h3><a href="${linkWebsite}" class="text-decoration-none text-success"><span itemprop="name">${record.Name}</span></a></h3>
                         </div>
                         <div class="d-flex">
-                            <a href="#" class="text-decoration-none text-success">
+                            <a href="${linkWebsite}" class="text-decoration-none text-success">
                                 <img src="${record.Img}" class="img-thumbnail icon" alt="">
                             </a>
                             <div class="mx-3">
@@ -176,7 +152,7 @@
                                     <a rel="tag" class="text-decoration-none text-success" href="#">${record.Address}</a>
                                 </p>
                                 <p class="m-0">
-                                    <a href="#" class="text-decoration-none text-success" target="_blank">${record.Website == null ? "" : record.Website}</a>
+                                    <a href="${linkWebsite}" class="text-decoration-none text-success" target="_blank">${record.Website == null ? "" : record.Website}</a>
                                 </p>
                             </div>
                         </div>

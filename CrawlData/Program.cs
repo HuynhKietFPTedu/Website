@@ -11,7 +11,7 @@ class Program
     static void Main()
     {
         // Chuỗi HTML tổng hợp chứa nhiều phần tử
-        var namefile = "text.txt";
+        var namefile = "quan6.txt";
         var html = File.ReadAllText($"D:\\FPT Polytechnic\\PDP201\\abc\\abc\\{namefile}", Encoding.UTF8);
         // Tạo HtmlDocument từ chuỗi HTML tổng hợp
         HtmlDocument doc = new HtmlDocument();
