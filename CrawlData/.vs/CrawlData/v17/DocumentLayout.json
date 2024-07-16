@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB36A3CA-37D1-4A83-9B85-400DECB45A1B}|CrawlData.csproj|d:\\fpt polytechnic\\pdp201\\website\\crawldata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB36A3CA-37D1-4A83-9B85-400DECB45A1B}|CrawlData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB36A3CA-37D1-4A83-9B85-400DECB45A1B}|CrawlData.csproj|d:\\fpt polytechnic\\pdp201\\website\\crawldata\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB36A3CA-37D1-4A83-9B85-400DECB45A1B}|CrawlData.csproj|solutionrelative:data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,26 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "data.json",
-              "DocumentMoniker": "D:\\FPT Polytechnic\\PDP201\\Website\\CrawlData\\Data\\data.json",
-              "RelativeDocumentMoniker": "Data\\data.json",
-              "ToolTip": "D:\\FPT Polytechnic\\PDP201\\Website\\CrawlData\\Data\\data.json",
-              "RelativeToolTip": "Data\\data.json",
-              "ViewState": "AQIAAE0IAAAAAAAAAAAAAJQIAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T08:48:49.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT Polytechnic\\PDP201\\Website\\CrawlData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\FPT Polytechnic\\PDP201\\Website\\CrawlData\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:39:36.607Z",
               "EditorCaption": ""

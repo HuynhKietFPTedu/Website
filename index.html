@@ -157,6 +157,7 @@
                     .then(response => {
                         const data = response.data;
                         console.log(data);
+                        data.Img = "https://www.thegioituthien.com/media/com_mtree/images/noimage_thb.png"
                         // Process JSON data here
 
 
@@ -184,7 +185,7 @@
                 </div>
                 <div class="d-flex">
                     <a href="#" class="text-decoration-none text-success">
-                        <img src="${record.image}" class="img-thumbnail icon" alt="">
+                        <img src="${record.Img}" class="img-thumbnail icon" alt="">
                     </a>
                     <div class="mx-3">
                         <p class="m-0">
